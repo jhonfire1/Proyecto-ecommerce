@@ -55,7 +55,7 @@ Tabla transaccional principal que registra las compras realizadas.
 | id_producto        | INTEGER       |
 | id_bodega          | INTEGER       |
 | cantidad           | INTEGER       |
-| precio_final_local | NUMERIC(10,2) |
+| precio_final_local | NUMERIC(12,2) |
 | canal_venta        | VARCHAR(20)   |
 | clics_previos      | INTEGER       |
 | dias_demora_real   | INTEGER       |
