@@ -1,0 +1,2001 @@
+id_bodega,pais_ciudad,capacidad_almacenamiento,operador_logistico
+1,Perú - Arequipa,15576,DHL
+2,Perú - Arequipa,29095,Olva Courier
+3,Chile - Concepción,41474,Olva Courier
+4,Perú - Lima,47258,Olva Courier
+5,Colombia - Medellín,13458,DHL
+6,Perú - Lima,43582,Servientrega
+7,Perú - Trujillo,24120,DHL
+8,Colombia - Medellín,20677,Servientrega
+9,Perú - Trujillo,48106,Servientrega
+10,Colombia - Bogotá,20788,DHL
+11,Perú - Trujillo,7827,Servientrega
+12,Perú - Arequipa,19518,Olva Courier
+13,Colombia - Bogotá,16747,Olva Courier
+14,Colombia - Medellín,26321,Blue Express
+15,Colombia - Cali,45655,Blue Express
+16,Perú - Trujillo,5359,Blue Express
+17,Perú - Trujillo,13875,Servientrega
+18,Perú - Arequipa,39462,DHL
+19,Colombia - Bogotá,15982,Blue Express
+20,Perú - Lima,35481,Blue Express
+21,Colombia - Medellín,38167,DHL
+22,Perú - Arequipa,32057,DHL
+23,Colombia - Bogotá,37290,Servientrega
+24,Perú - Arequipa,46128,DHL
+25,Colombia - Bogotá,45019,Olva Courier
+26,Chile - Concepción,6607,DHL
+27,Colombia - Cali,34737,Olva Courier
+28,Colombia - Cali,5525,Olva Courier
+29,Chile - Santiago,48353,DHL
+30,Chile - Valparaíso,20264,DHL
+31,Chile - Valparaíso,36956,DHL
+32,Perú - Lima,39086,Olva Courier
+33,Colombia - Cali,15152,DHL
+34,Colombia - Bogotá,48599,Blue Express
+35,Chile - Concepción,25040,Olva Courier
+36,Perú - Arequipa,43353,Servientrega
+37,Colombia - Cali,48437,Olva Courier
+38,Colombia - Medellín,9940,Servientrega
+39,Colombia - Bogotá,47820,Blue Express
+40,Colombia - Medellín,39775,Servientrega
+41,Chile - Valparaíso,31294,Blue Express
+42,Colombia - Bogotá,28562,Servientrega
+43,Chile - Concepción,9057,DHL
+44,Colombia - Cali,19949,Olva Courier
+45,Chile - Valparaíso,23098,Olva Courier
+46,Perú - Arequipa,35994,DHL
+47,Chile - Concepción,48308,Blue Express
+48,Chile - Valparaíso,35798,Servientrega
+49,Perú - Trujillo,16294,Servientrega
+50,Colombia - Medellín,13788,Servientrega
+51,Chile - Valparaíso,45890,Blue Express
+52,Perú - Lima,38731,Blue Express
+53,Chile - Valparaíso,47618,DHL
+54,Chile - Concepción,28795,DHL
+55,Perú - Arequipa,45490,DHL
+56,Perú - Trujillo,33984,Olva Courier
+57,Perú - Trujillo,30917,Blue Express
+58,Chile - Valparaíso,37305,Servientrega
+59,Perú - Trujillo,23469,Olva Courier
+60,Colombia - Cali,11052,Olva Courier
+61,Perú - Trujillo,24921,DHL
+62,Chile - Valparaíso,38100,Blue Express
+63,Perú - Lima,16569,DHL
+64,Colombia - Bogotá,47519,Olva Courier
+65,Colombia - Cali,41887,Blue Express
+66,Chile - Valparaíso,30273,Olva Courier
+67,Perú - Arequipa,46135,Blue Express
+68,Chile - Santiago,24847,Blue Express
+69,Chile - Santiago,30625,DHL
+70,Colombia - Bogotá,22368,Blue Express
+71,Colombia - Bogotá,33511,DHL
+72,Perú - Trujillo,11442,Blue Express
+73,Colombia - Medellín,30040,DHL
+74,Colombia - Cali,49860,Olva Courier
+75,Perú - Lima,21662,Blue Express
+76,Chile - Santiago,8740,Olva Courier
+77,Perú - Arequipa,47456,Blue Express
+78,Perú - Lima,19980,Servientrega
+79,Perú - Trujillo,8911,Olva Courier
+80,Chile - Valparaíso,18841,Olva Courier
+81,Chile - Valparaíso,48658,DHL
+82,Colombia - Cali,5142,Blue Express
+83,Colombia - Medellín,17013,DHL
+84,Colombia - Bogotá,16851,Olva Courier
+85,Chile - Valparaíso,15337,Blue Express
+86,Perú - Trujillo,18667,Blue Express
+87,Chile - Concepción,6030,Blue Express
+88,Perú - Trujillo,15997,Blue Express
+89,Colombia - Medellín,14813,DHL
+90,Perú - Lima,13640,DHL
+91,Colombia - Cali,41964,Blue Express
+92,Chile - Valparaíso,14649,Servientrega
+93,Perú - Arequipa,40305,Servientrega
+94,Colombia - Bogotá,48366,DHL
+95,Chile - Valparaíso,27091,Blue Express
+96,Chile - Valparaíso,12161,Blue Express
+97,Colombia - Cali,41310,Blue Express
+98,Perú - Arequipa,26211,DHL
+99,Perú - Trujillo,10329,Blue Express
+100,Perú - Lima,29162,Olva Courier
+101,Perú - Arequipa,41438,Servientrega
+102,Perú - Lima,30835,Servientrega
+103,Colombia - Bogotá,35577,Olva Courier
+104,Colombia - Cali,47061,DHL
+105,Perú - Lima,37960,Blue Express
+106,Colombia - Bogotá,38141,Olva Courier
+107,Chile - Concepción,13117,DHL
+108,Chile - Concepción,12748,Servientrega
+109,Colombia - Medellín,7691,DHL
+110,Perú - Lima,9830,DHL
+111,Chile - Valparaíso,10913,Servientrega
+112,Chile - Valparaíso,20962,Blue Express
+113,Perú - Arequipa,47455,Olva Courier
+114,Perú - Trujillo,34915,Servientrega
+115,Perú - Trujillo,26818,DHL
+116,Chile - Santiago,19177,Olva Courier
+117,Chile - Valparaíso,13642,Olva Courier
+118,Chile - Concepción,8453,DHL
+119,Colombia - Bogotá,6441,DHL
+120,Chile - Santiago,7636,Servientrega
+121,Colombia - Cali,41213,Blue Express
+122,Perú - Lima,48856,DHL
+123,Chile - Valparaíso,44282,Servientrega
+124,Chile - Valparaíso,28489,DHL
+125,Perú - Arequipa,30847,Blue Express
+126,Perú - Arequipa,14982,Servientrega
+127,Perú - Trujillo,14415,Olva Courier
+128,Chile - Concepción,8968,Olva Courier
+129,Perú - Arequipa,10267,DHL
+130,Colombia - Cali,35214,Olva Courier
+131,Colombia - Bogotá,39861,Blue Express
+132,Perú - Arequipa,42126,Olva Courier
+133,Chile - Concepción,20382,DHL
+134,Colombia - Cali,47302,Blue Express
+135,Chile - Santiago,41742,DHL
+136,Perú - Arequipa,33392,Olva Courier
+137,Colombia - Bogotá,13582,Blue Express
+138,Colombia - Medellín,9751,Blue Express
+139,Perú - Arequipa,33374,DHL
+140,Chile - Valparaíso,29997,DHL
+141,Colombia - Medellín,23825,Olva Courier
+142,Chile - Concepción,22243,Servientrega
+143,Perú - Arequipa,9215,DHL
+144,Colombia - Bogotá,23586,Blue Express
+145,Colombia - Cali,47461,Blue Express
+146,Chile - Concepción,49656,Blue Express
+147,Chile - Santiago,44454,Olva Courier
+148,Colombia - Bogotá,7989,Olva Courier
+149,Chile - Valparaíso,36972,Servientrega
+150,Colombia - Bogotá,8662,Servientrega
+151,Colombia - Bogotá,7812,Blue Express
+152,Chile - Valparaíso,14647,Blue Express
+153,Perú - Lima,9167,DHL
+154,Colombia - Bogotá,42290,Olva Courier
+155,Chile - Concepción,5524,Olva Courier
+156,Perú - Lima,28464,DHL
+157,Chile - Santiago,30951,Servientrega
+158,Perú - Trujillo,45156,DHL
+159,Colombia - Bogotá,28641,Olva Courier
+160,Perú - Lima,5052,Blue Express
+161,Chile - Valparaíso,12285,Blue Express
+162,Colombia - Cali,16400,Olva Courier
+163,Perú - Arequipa,32010,DHL
+164,Chile - Valparaíso,5827,Olva Courier
+165,Perú - Trujillo,22768,DHL
+166,Colombia - Medellín,41954,Olva Courier
+167,Perú - Lima,25694,Blue Express
+168,Perú - Arequipa,31290,Olva Courier
+169,Colombia - Medellín,40864,Servientrega
+170,Perú - Lima,44168,Blue Express
+171,Chile - Concepción,45415,Olva Courier
+172,Perú - Lima,12998,Olva Courier
+173,Perú - Arequipa,20901,Olva Courier
+174,Perú - Lima,41657,Olva Courier
+175,Chile - Concepción,17925,Blue Express
+176,Perú - Trujillo,36185,DHL
+177,Perú - Arequipa,44567,Olva Courier
+178,Chile - Santiago,7344,Olva Courier
+179,Colombia - Bogotá,31399,Servientrega
+180,Colombia - Medellín,33397,Olva Courier
+181,Chile - Valparaíso,20408,DHL
+182,Perú - Arequipa,24677,DHL
+183,Chile - Valparaíso,29870,Servientrega
+184,Perú - Lima,20969,Blue Express
+185,Colombia - Medellín,9783,Blue Express
+186,Colombia - Bogotá,39435,Blue Express
+187,Chile - Valparaíso,12842,Olva Courier
+188,Chile - Santiago,40281,Olva Courier
+189,Chile - Concepción,38194,DHL
+190,Perú - Arequipa,19083,DHL
+191,Perú - Arequipa,14642,Olva Courier
+192,Colombia - Cali,38523,Servientrega
+193,Chile - Valparaíso,20305,DHL
+194,Colombia - Cali,28734,Blue Express
+195,Perú - Lima,29796,Olva Courier
+196,Chile - Concepción,19085,Servientrega
+197,Perú - Arequipa,31626,Blue Express
+198,Perú - Trujillo,35801,DHL
+199,Colombia - Medellín,41785,DHL
+200,Colombia - Cali,29040,Olva Courier
+201,Colombia - Medellín,24060,DHL
+202,Colombia - Medellín,26931,Olva Courier
+203,Perú - Arequipa,46404,Blue Express
+204,Chile - Valparaíso,41511,DHL
+205,Colombia - Medellín,33966,Olva Courier
+206,Perú - Trujillo,33146,Blue Express
+207,Chile - Concepción,24524,Blue Express
+208,Chile - Concepción,17509,DHL
+209,Colombia - Cali,7178,Servientrega
+210,Colombia - Medellín,25828,DHL
+211,Chile - Concepción,40344,Olva Courier
+212,Colombia - Medellín,30230,Blue Express
+213,Chile - Valparaíso,23329,Blue Express
+214,Colombia - Cali,37332,DHL
+215,Chile - Santiago,10648,Olva Courier
+216,Colombia - Medellín,25605,DHL
+217,Colombia - Bogotá,7803,DHL
+218,Colombia - Medellín,42134,Olva Courier
+219,Perú - Arequipa,33357,Olva Courier
+220,Colombia - Bogotá,23404,DHL
+221,Chile - Concepción,5108,DHL
+222,Colombia - Medellín,42555,Olva Courier
+223,Chile - Santiago,47771,Olva Courier
+224,Perú - Lima,23422,DHL
+225,Chile - Concepción,42289,Servientrega
+226,Chile - Concepción,27863,DHL
+227,Colombia - Bogotá,48185,DHL
+228,Perú - Trujillo,27169,Blue Express
+229,Colombia - Medellín,21461,Blue Express
+230,Colombia - Medellín,8307,Blue Express
+231,Perú - Trujillo,14417,Servientrega
+232,Chile - Concepción,43704,DHL
+233,Colombia - Cali,41262,Blue Express
+234,Colombia - Cali,42010,Olva Courier
+235,Perú - Arequipa,11682,Olva Courier
+236,Colombia - Cali,39489,DHL
+237,Colombia - Medellín,14631,Olva Courier
+238,Colombia - Cali,33413,Olva Courier
+239,Colombia - Cali,18768,Olva Courier
+240,Chile - Concepción,38104,Servientrega
+241,Colombia - Medellín,23104,Blue Express
+242,Chile - Concepción,39821,Olva Courier
+243,Colombia - Bogotá,20186,Olva Courier
+244,Chile - Valparaíso,25434,Servientrega
+245,Colombia - Cali,10842,Blue Express
+246,Perú - Trujillo,8953,Olva Courier
+247,Perú - Arequipa,38078,Servientrega
+248,Colombia - Cali,15939,Servientrega
+249,Perú - Arequipa,6053,Blue Express
+250,Colombia - Medellín,9338,DHL
+251,Colombia - Cali,40247,Olva Courier
+252,Chile - Valparaíso,39340,DHL
+253,Chile - Santiago,28796,Blue Express
+254,Chile - Valparaíso,17562,Blue Express
+255,Colombia - Medellín,12210,Olva Courier
+256,Colombia - Medellín,38193,Olva Courier
+257,Colombia - Bogotá,34421,Olva Courier
+258,Colombia - Bogotá,15083,Servientrega
+259,Colombia - Bogotá,26896,Olva Courier
+260,Chile - Concepción,44684,Servientrega
+261,Chile - Valparaíso,38337,Servientrega
+262,Perú - Arequipa,44235,Servientrega
+263,Colombia - Medellín,43709,Blue Express
+264,Perú - Lima,33525,Olva Courier
+265,Perú - Lima,36567,DHL
+266,Perú - Arequipa,34861,Blue Express
+267,Chile - Valparaíso,27152,Servientrega
+268,Colombia - Cali,42667,Servientrega
+269,Colombia - Bogotá,30188,Servientrega
+270,Perú - Lima,8347,DHL
+271,Perú - Arequipa,18257,Servientrega
+272,Perú - Arequipa,9103,Olva Courier
+273,Colombia - Bogotá,12713,Blue Express
+274,Perú - Lima,13196,Servientrega
+275,Chile - Santiago,29959,Olva Courier
+276,Perú - Arequipa,22249,Blue Express
+277,Perú - Lima,24828,Servientrega
+278,Colombia - Bogotá,19601,DHL
+279,Colombia - Cali,12491,Servientrega
+280,Perú - Trujillo,37765,Olva Courier
+281,Perú - Arequipa,47233,Olva Courier
+282,Perú - Arequipa,20225,Servientrega
+283,Colombia - Bogotá,20359,DHL
+284,Chile - Concepción,42453,DHL
+285,Perú - Lima,45693,Servientrega
+286,Chile - Concepción,37298,Olva Courier
+287,Colombia - Medellín,9993,Olva Courier
+288,Colombia - Bogotá,17984,DHL
+289,Chile - Concepción,23543,Servientrega
+290,Colombia - Bogotá,15260,DHL
+291,Colombia - Bogotá,8018,Blue Express
+292,Chile - Valparaíso,33766,Blue Express
+293,Perú - Lima,34696,Blue Express
+294,Chile - Santiago,27435,Olva Courier
+295,Chile - Concepción,6223,DHL
+296,Chile - Santiago,24602,DHL
+297,Chile - Valparaíso,30918,Olva Courier
+298,Chile - Valparaíso,19343,DHL
+299,Colombia - Medellín,36417,DHL
+300,Colombia - Cali,28570,Olva Courier
+301,Colombia - Medellín,24385,Olva Courier
+302,Colombia - Cali,42071,Blue Express
+303,Chile - Valparaíso,23660,Olva Courier
+304,Chile - Valparaíso,26234,Servientrega
+305,Perú - Lima,28730,DHL
+306,Chile - Concepción,49251,Blue Express
+307,Colombia - Cali,11790,Blue Express
+308,Perú - Arequipa,8588,Olva Courier
+309,Colombia - Bogotá,18900,DHL
+310,Colombia - Cali,6864,Blue Express
+311,Colombia - Medellín,25549,DHL
+312,Perú - Trujillo,32529,Blue Express
+313,Perú - Trujillo,35546,DHL
+314,Chile - Santiago,45549,Servientrega
+315,Perú - Lima,24420,Servientrega
+316,Perú - Lima,16692,Servientrega
+317,Perú - Arequipa,48847,Servientrega
+318,Chile - Santiago,20606,DHL
+319,Colombia - Cali,18300,Blue Express
+320,Chile - Concepción,23782,Olva Courier
+321,Colombia - Bogotá,11884,Olva Courier
+322,Colombia - Medellín,40765,DHL
+323,Colombia - Bogotá,49285,DHL
+324,Perú - Lima,34934,Blue Express
+325,Chile - Concepción,13811,Blue Express
+326,Chile - Concepción,12420,Servientrega
+327,Colombia - Cali,8385,Servientrega
+328,Chile - Valparaíso,18343,Blue Express
+329,Colombia - Bogotá,16555,Blue Express
+330,Colombia - Medellín,21280,DHL
+331,Colombia - Bogotá,9764,Servientrega
+332,Chile - Concepción,48763,Blue Express
+333,Chile - Valparaíso,47222,Blue Express
+334,Colombia - Cali,46338,Servientrega
+335,Perú - Arequipa,49378,Servientrega
+336,Perú - Trujillo,27255,Blue Express
+337,Chile - Santiago,49446,Olva Courier
+338,Perú - Trujillo,8354,Olva Courier
+339,Colombia - Cali,26422,DHL
+340,Chile - Concepción,13446,Blue Express
+341,Colombia - Bogotá,42604,Olva Courier
+342,Perú - Lima,46480,Olva Courier
+343,Colombia - Medellín,49300,Olva Courier
+344,Perú - Trujillo,41481,Blue Express
+345,Colombia - Bogotá,46570,DHL
+346,Colombia - Cali,19485,Olva Courier
+347,Chile - Valparaíso,29103,DHL
+348,Colombia - Medellín,19469,DHL
+349,Chile - Valparaíso,41682,DHL
+350,Chile - Santiago,25623,Servientrega
+351,Chile - Santiago,49536,Olva Courier
+352,Colombia - Cali,5271,Servientrega
+353,Colombia - Bogotá,45888,Blue Express
+354,Colombia - Cali,41760,Servientrega
+355,Perú - Lima,44322,DHL
+356,Colombia - Medellín,6623,DHL
+357,Perú - Arequipa,20581,DHL
+358,Chile - Valparaíso,21748,Servientrega
+359,Perú - Lima,11804,Servientrega
+360,Chile - Santiago,33717,Blue Express
+361,Colombia - Bogotá,41552,DHL
+362,Colombia - Medellín,10458,Servientrega
+363,Colombia - Medellín,43144,DHL
+364,Colombia - Cali,46470,DHL
+365,Colombia - Medellín,44404,Servientrega
+366,Perú - Lima,16905,Blue Express
+367,Perú - Trujillo,22721,DHL
+368,Chile - Concepción,15349,Servientrega
+369,Chile - Valparaíso,46503,Servientrega
+370,Perú - Lima,12671,Olva Courier
+371,Chile - Valparaíso,32715,DHL
+372,Colombia - Cali,13755,Servientrega
+373,Chile - Santiago,44632,Olva Courier
+374,Chile - Concepción,6615,Blue Express
+375,Colombia - Cali,10277,Blue Express
+376,Colombia - Cali,24764,Servientrega
+377,Perú - Arequipa,39104,Blue Express
+378,Chile - Concepción,47524,Olva Courier
+379,Colombia - Bogotá,7074,Blue Express
+380,Chile - Concepción,34365,DHL
+381,Colombia - Cali,41479,Olva Courier
+382,Colombia - Bogotá,39275,DHL
+383,Perú - Arequipa,38128,Blue Express
+384,Colombia - Medellín,16081,Olva Courier
+385,Chile - Santiago,41226,Blue Express
+386,Chile - Valparaíso,36717,Servientrega
+387,Colombia - Cali,7516,DHL
+388,Perú - Trujillo,40895,Blue Express
+389,Perú - Lima,25581,Blue Express
+390,Chile - Concepción,8786,Olva Courier
+391,Chile - Santiago,35607,Servientrega
+392,Perú - Lima,35426,Servientrega
+393,Chile - Concepción,24497,Blue Express
+394,Perú - Lima,32248,Servientrega
+395,Colombia - Medellín,17551,Blue Express
+396,Colombia - Cali,40736,Blue Express
+397,Colombia - Medellín,48683,DHL
+398,Colombia - Bogotá,49900,Blue Express
+399,Colombia - Cali,38921,Olva Courier
+400,Chile - Concepción,16014,Servientrega
+401,Chile - Valparaíso,11177,Blue Express
+402,Chile - Valparaíso,28174,Olva Courier
+403,Colombia - Cali,18566,DHL
+404,Perú - Arequipa,12768,Servientrega
+405,Chile - Valparaíso,10762,Olva Courier
+406,Perú - Arequipa,44891,Olva Courier
+407,Chile - Concepción,26918,DHL
+408,Colombia - Bogotá,26382,DHL
+409,Colombia - Medellín,17037,DHL
+410,Chile - Concepción,45187,DHL
+411,Colombia - Cali,16846,DHL
+412,Colombia - Bogotá,47071,DHL
+413,Chile - Valparaíso,37438,DHL
+414,Chile - Concepción,16584,Olva Courier
+415,Colombia - Bogotá,28874,Blue Express
+416,Perú - Arequipa,34145,Blue Express
+417,Chile - Valparaíso,10206,Servientrega
+418,Colombia - Cali,42614,Blue Express
+419,Chile - Concepción,12033,Servientrega
+420,Chile - Concepción,45981,Servientrega
+421,Colombia - Medellín,38765,DHL
+422,Chile - Concepción,45946,DHL
+423,Chile - Concepción,47524,DHL
+424,Chile - Santiago,19065,DHL
+425,Chile - Santiago,12111,DHL
+426,Perú - Lima,15924,Servientrega
+427,Colombia - Cali,45511,DHL
+428,Colombia - Cali,24980,Blue Express
+429,Chile - Santiago,22949,DHL
+430,Perú - Lima,29705,DHL
+431,Chile - Santiago,6830,DHL
+432,Perú - Trujillo,47885,Servientrega
+433,Chile - Valparaíso,9685,Olva Courier
+434,Colombia - Cali,49324,DHL
+435,Colombia - Bogotá,26533,Blue Express
+436,Perú - Lima,17724,Servientrega
+437,Chile - Santiago,18858,DHL
+438,Perú - Trujillo,38616,Servientrega
+439,Perú - Trujillo,35994,Blue Express
+440,Perú - Trujillo,22038,Blue Express
+441,Colombia - Cali,15500,DHL
+442,Perú - Trujillo,30830,Blue Express
+443,Perú - Trujillo,16239,Olva Courier
+444,Perú - Trujillo,18124,Blue Express
+445,Colombia - Bogotá,46960,DHL
+446,Colombia - Cali,37961,Olva Courier
+447,Perú - Lima,18195,Blue Express
+448,Colombia - Medellín,44511,Olva Courier
+449,Chile - Valparaíso,22721,Servientrega
+450,Colombia - Cali,12334,Olva Courier
+451,Chile - Valparaíso,33269,Servientrega
+452,Chile - Valparaíso,29803,Servientrega
+453,Perú - Arequipa,47107,Blue Express
+454,Colombia - Cali,28103,DHL
+455,Chile - Concepción,36436,Servientrega
+456,Colombia - Bogotá,45779,Servientrega
+457,Perú - Lima,11428,Servientrega
+458,Perú - Lima,20804,Olva Courier
+459,Colombia - Cali,46647,Blue Express
+460,Colombia - Bogotá,16751,DHL
+461,Perú - Arequipa,46673,Blue Express
+462,Colombia - Bogotá,9802,Servientrega
+463,Colombia - Cali,32441,Servientrega
+464,Chile - Concepción,39307,Servientrega
+465,Perú - Lima,43322,Servientrega
+466,Colombia - Cali,7760,Servientrega
+467,Colombia - Cali,29832,DHL
+468,Perú - Arequipa,9359,Olva Courier
+469,Colombia - Bogotá,31780,DHL
+470,Perú - Arequipa,22519,DHL
+471,Chile - Valparaíso,27090,Olva Courier
+472,Chile - Concepción,18193,Blue Express
+473,Perú - Lima,42910,DHL
+474,Colombia - Cali,43984,Olva Courier
+475,Colombia - Medellín,19841,Blue Express
+476,Perú - Lima,36353,Blue Express
+477,Colombia - Bogotá,20693,Servientrega
+478,Perú - Arequipa,8693,Blue Express
+479,Colombia - Medellín,27737,Blue Express
+480,Perú - Arequipa,12395,DHL
+481,Chile - Valparaíso,43772,Blue Express
+482,Colombia - Cali,31620,Blue Express
+483,Chile - Valparaíso,45914,Servientrega
+484,Colombia - Medellín,30450,Servientrega
+485,Perú - Trujillo,15070,Servientrega
+486,Colombia - Medellín,31913,DHL
+487,Chile - Santiago,39328,Servientrega
+488,Chile - Santiago,46600,DHL
+489,Colombia - Bogotá,13174,Olva Courier
+490,Chile - Concepción,24812,Olva Courier
+491,Chile - Concepción,15235,Servientrega
+492,Colombia - Bogotá,49584,Blue Express
+493,Colombia - Bogotá,21031,Olva Courier
+494,Colombia - Cali,36130,Servientrega
+495,Colombia - Cali,45554,Olva Courier
+496,Perú - Arequipa,11779,Servientrega
+497,Colombia - Cali,5587,Blue Express
+498,Perú - Trujillo,33222,Servientrega
+499,Colombia - Bogotá,44584,Servientrega
+500,Perú - Arequipa,10889,Servientrega
+501,Colombia - Medellín,23740,Servientrega
+502,Chile - Concepción,27478,Servientrega
+503,Chile - Valparaíso,21334,Olva Courier
+504,Perú - Lima,44449,Servientrega
+505,Chile - Santiago,45226,Olva Courier
+506,Perú - Trujillo,30388,DHL
+507,Perú - Arequipa,18659,Blue Express
+508,Chile - Santiago,15978,Servientrega
+509,Chile - Santiago,23597,Servientrega
+510,Perú - Arequipa,19347,DHL
+511,Colombia - Medellín,20505,Servientrega
+512,Chile - Concepción,27658,Servientrega
+513,Perú - Lima,42286,Blue Express
+514,Perú - Arequipa,28056,Servientrega
+515,Perú - Trujillo,6226,Blue Express
+516,Perú - Lima,41033,Servientrega
+517,Perú - Lima,5663,Blue Express
+518,Chile - Concepción,12877,DHL
+519,Colombia - Cali,16651,Blue Express
+520,Colombia - Cali,36881,Servientrega
+521,Perú - Trujillo,25739,Servientrega
+522,Chile - Santiago,24465,Servientrega
+523,Perú - Lima,30804,Blue Express
+524,Chile - Valparaíso,43072,Servientrega
+525,Perú - Lima,37512,Olva Courier
+526,Colombia - Bogotá,19622,Olva Courier
+527,Chile - Valparaíso,16350,Blue Express
+528,Perú - Lima,28384,Blue Express
+529,Perú - Lima,22578,Servientrega
+530,Chile - Santiago,24498,Servientrega
+531,Colombia - Bogotá,33683,Olva Courier
+532,Chile - Santiago,26291,DHL
+533,Colombia - Bogotá,43660,Blue Express
+534,Chile - Concepción,29498,DHL
+535,Perú - Arequipa,24814,Olva Courier
+536,Perú - Lima,43109,DHL
+537,Colombia - Cali,20366,Olva Courier
+538,Perú - Trujillo,9639,DHL
+539,Chile - Valparaíso,14314,Servientrega
+540,Perú - Trujillo,37686,Blue Express
+541,Perú - Lima,41340,DHL
+542,Chile - Santiago,26941,Blue Express
+543,Colombia - Medellín,46705,Servientrega
+544,Colombia - Medellín,13732,DHL
+545,Colombia - Medellín,21164,Servientrega
+546,Chile - Concepción,37140,Servientrega
+547,Perú - Arequipa,9499,Olva Courier
+548,Colombia - Cali,26974,Blue Express
+549,Colombia - Medellín,15141,Olva Courier
+550,Chile - Concepción,13980,Olva Courier
+551,Perú - Trujillo,49400,Olva Courier
+552,Perú - Arequipa,40212,DHL
+553,Perú - Arequipa,13017,Servientrega
+554,Colombia - Cali,28289,DHL
+555,Perú - Trujillo,5737,Blue Express
+556,Colombia - Medellín,29849,Servientrega
+557,Colombia - Medellín,45131,Servientrega
+558,Perú - Lima,21036,DHL
+559,Colombia - Bogotá,9189,DHL
+560,Colombia - Bogotá,14665,DHL
+561,Colombia - Medellín,46116,Olva Courier
+562,Colombia - Medellín,35518,Blue Express
+563,Perú - Arequipa,13000,Blue Express
+564,Colombia - Cali,46679,Blue Express
+565,Chile - Santiago,8210,Blue Express
+566,Perú - Lima,34322,Servientrega
+567,Chile - Concepción,12011,Servientrega
+568,Chile - Concepción,16946,DHL
+569,Colombia - Medellín,16860,Olva Courier
+570,Chile - Concepción,13060,Servientrega
+571,Colombia - Medellín,41632,Blue Express
+572,Colombia - Cali,13177,Blue Express
+573,Colombia - Medellín,38873,DHL
+574,Chile - Valparaíso,32339,Olva Courier
+575,Perú - Arequipa,47512,Blue Express
+576,Chile - Santiago,22210,Servientrega
+577,Perú - Trujillo,18683,DHL
+578,Colombia - Bogotá,6203,DHL
+579,Colombia - Medellín,24123,Olva Courier
+580,Perú - Arequipa,17011,Servientrega
+581,Chile - Valparaíso,6824,Servientrega
+582,Chile - Valparaíso,36148,Blue Express
+583,Perú - Lima,34919,DHL
+584,Chile - Santiago,43136,Blue Express
+585,Perú - Arequipa,49455,Blue Express
+586,Chile - Valparaíso,17699,Servientrega
+587,Colombia - Cali,16047,DHL
+588,Perú - Trujillo,42136,DHL
+589,Perú - Arequipa,28504,Servientrega
+590,Perú - Arequipa,19913,Olva Courier
+591,Perú - Trujillo,24543,DHL
+592,Colombia - Cali,35305,DHL
+593,Colombia - Bogotá,28336,Servientrega
+594,Perú - Arequipa,7591,Servientrega
+595,Colombia - Cali,48982,Olva Courier
+596,Chile - Santiago,43980,Servientrega
+597,Perú - Lima,46745,Blue Express
+598,Chile - Santiago,42633,Blue Express
+599,Chile - Santiago,16458,Blue Express
+600,Colombia - Medellín,35978,DHL
+601,Perú - Lima,17450,Olva Courier
+602,Colombia - Medellín,23789,Olva Courier
+603,Perú - Lima,19394,Olva Courier
+604,Perú - Trujillo,32044,Olva Courier
+605,Chile - Valparaíso,45946,Servientrega
+606,Perú - Arequipa,41014,Blue Express
+607,Chile - Santiago,46655,DHL
+608,Chile - Valparaíso,29796,Blue Express
+609,Perú - Arequipa,18559,DHL
+610,Colombia - Medellín,22137,Olva Courier
+611,Colombia - Medellín,40637,Servientrega
+612,Perú - Arequipa,45884,Servientrega
+613,Chile - Concepción,47165,Servientrega
+614,Colombia - Bogotá,47900,Blue Express
+615,Chile - Valparaíso,12738,Olva Courier
+616,Colombia - Cali,9737,Olva Courier
+617,Perú - Lima,27610,Servientrega
+618,Colombia - Medellín,30514,DHL
+619,Colombia - Medellín,20125,DHL
+620,Colombia - Bogotá,13320,Blue Express
+621,Chile - Concepción,28531,DHL
+622,Colombia - Bogotá,37736,Olva Courier
+623,Chile - Concepción,38751,Blue Express
+624,Perú - Trujillo,12621,Blue Express
+625,Colombia - Medellín,11050,Servientrega
+626,Colombia - Bogotá,46997,Servientrega
+627,Chile - Valparaíso,41538,Olva Courier
+628,Chile - Santiago,49212,Blue Express
+629,Perú - Trujillo,28262,Blue Express
+630,Chile - Santiago,39092,Olva Courier
+631,Perú - Trujillo,18673,Olva Courier
+632,Perú - Arequipa,42547,Blue Express
+633,Chile - Concepción,24981,DHL
+634,Chile - Valparaíso,20104,DHL
+635,Perú - Trujillo,7000,Servientrega
+636,Chile - Concepción,8154,Blue Express
+637,Chile - Concepción,25035,Servientrega
+638,Chile - Valparaíso,6082,DHL
+639,Colombia - Cali,34996,Olva Courier
+640,Perú - Lima,21873,Servientrega
+641,Chile - Concepción,11722,Servientrega
+642,Perú - Arequipa,20113,DHL
+643,Chile - Santiago,15688,Blue Express
+644,Chile - Valparaíso,46944,DHL
+645,Perú - Arequipa,14912,Olva Courier
+646,Perú - Trujillo,16590,DHL
+647,Colombia - Cali,41459,Olva Courier
+648,Chile - Valparaíso,13260,Servientrega
+649,Colombia - Medellín,29857,Servientrega
+650,Colombia - Medellín,26541,Blue Express
+651,Chile - Concepción,28712,Blue Express
+652,Colombia - Medellín,39145,Olva Courier
+653,Colombia - Bogotá,9077,Servientrega
+654,Colombia - Medellín,38688,Blue Express
+655,Colombia - Cali,35728,Servientrega
+656,Chile - Valparaíso,39768,Servientrega
+657,Perú - Trujillo,19538,Blue Express
+658,Perú - Lima,36870,DHL
+659,Chile - Concepción,12232,Olva Courier
+660,Perú - Lima,23089,Blue Express
+661,Perú - Trujillo,11230,Olva Courier
+662,Colombia - Cali,39407,DHL
+663,Perú - Arequipa,22089,Olva Courier
+664,Perú - Trujillo,5413,DHL
+665,Colombia - Bogotá,30383,Olva Courier
+666,Chile - Valparaíso,49724,DHL
+667,Perú - Arequipa,25001,Servientrega
+668,Colombia - Cali,34478,Olva Courier
+669,Perú - Arequipa,40267,DHL
+670,Chile - Concepción,27795,DHL
+671,Colombia - Bogotá,27807,Servientrega
+672,Colombia - Cali,40517,Blue Express
+673,Chile - Santiago,30420,Olva Courier
+674,Chile - Santiago,34803,Blue Express
+675,Chile - Santiago,32233,DHL
+676,Perú - Lima,19471,Servientrega
+677,Colombia - Medellín,10978,DHL
+678,Perú - Trujillo,8030,Olva Courier
+679,Perú - Trujillo,36570,Servientrega
+680,Colombia - Cali,9681,Olva Courier
+681,Perú - Lima,10125,Servientrega
+682,Chile - Valparaíso,6943,DHL
+683,Perú - Lima,40838,Olva Courier
+684,Perú - Trujillo,39052,DHL
+685,Perú - Lima,10366,Servientrega
+686,Perú - Lima,28421,DHL
+687,Perú - Arequipa,17070,Olva Courier
+688,Chile - Santiago,41233,Olva Courier
+689,Chile - Valparaíso,36035,Blue Express
+690,Chile - Valparaíso,9047,Servientrega
+691,Chile - Concepción,24015,Servientrega
+692,Chile - Valparaíso,11329,Servientrega
+693,Chile - Valparaíso,5743,Olva Courier
+694,Perú - Lima,49435,Blue Express
+695,Perú - Lima,27426,Olva Courier
+696,Perú - Trujillo,35330,Olva Courier
+697,Perú - Lima,14817,DHL
+698,Colombia - Bogotá,26283,Blue Express
+699,Perú - Arequipa,23959,Olva Courier
+700,Chile - Concepción,10654,Olva Courier
+701,Colombia - Cali,25631,Blue Express
+702,Colombia - Medellín,30613,Servientrega
+703,Perú - Arequipa,49168,Blue Express
+704,Chile - Valparaíso,18824,Servientrega
+705,Chile - Concepción,47459,DHL
+706,Colombia - Cali,17479,DHL
+707,Colombia - Cali,36090,Servientrega
+708,Chile - Concepción,43578,DHL
+709,Perú - Arequipa,18766,Olva Courier
+710,Colombia - Cali,12141,Olva Courier
+711,Chile - Santiago,43661,Servientrega
+712,Colombia - Bogotá,47667,Servientrega
+713,Chile - Valparaíso,11262,Servientrega
+714,Colombia - Bogotá,28393,Olva Courier
+715,Perú - Arequipa,7644,DHL
+716,Perú - Lima,34978,Blue Express
+717,Perú - Arequipa,37254,Olva Courier
+718,Chile - Valparaíso,26730,DHL
+719,Perú - Trujillo,38969,Blue Express
+720,Colombia - Cali,11885,Blue Express
+721,Colombia - Bogotá,33707,DHL
+722,Perú - Lima,30695,Servientrega
+723,Perú - Trujillo,37308,DHL
+724,Perú - Lima,16218,Blue Express
+725,Colombia - Medellín,36119,Blue Express
+726,Chile - Santiago,36030,Servientrega
+727,Perú - Trujillo,30010,Olva Courier
+728,Chile - Concepción,41238,DHL
+729,Colombia - Medellín,10155,Olva Courier
+730,Chile - Valparaíso,47294,Blue Express
+731,Colombia - Cali,34526,Blue Express
+732,Perú - Arequipa,11749,DHL
+733,Colombia - Cali,29114,Blue Express
+734,Chile - Valparaíso,20810,DHL
+735,Colombia - Cali,26691,Olva Courier
+736,Colombia - Bogotá,16902,DHL
+737,Colombia - Bogotá,21353,Blue Express
+738,Chile - Santiago,27518,Olva Courier
+739,Perú - Arequipa,40218,Olva Courier
+740,Chile - Santiago,36427,DHL
+741,Perú - Arequipa,34337,Blue Express
+742,Colombia - Cali,10546,Blue Express
+743,Perú - Arequipa,48688,Servientrega
+744,Colombia - Medellín,43629,Olva Courier
+745,Chile - Santiago,49906,Olva Courier
+746,Chile - Concepción,15118,Olva Courier
+747,Colombia - Cali,16128,Servientrega
+748,Perú - Trujillo,19942,DHL
+749,Colombia - Bogotá,46646,DHL
+750,Chile - Valparaíso,14696,Servientrega
+751,Perú - Arequipa,6712,Blue Express
+752,Chile - Santiago,44936,Servientrega
+753,Perú - Trujillo,22481,Olva Courier
+754,Colombia - Cali,39432,Olva Courier
+755,Chile - Valparaíso,46321,Servientrega
+756,Perú - Trujillo,41074,Blue Express
+757,Colombia - Medellín,25276,DHL
+758,Chile - Concepción,5592,Blue Express
+759,Chile - Santiago,38679,Blue Express
+760,Perú - Lima,5708,DHL
+761,Chile - Valparaíso,49910,Olva Courier
+762,Chile - Concepción,36694,Olva Courier
+763,Chile - Valparaíso,11094,Olva Courier
+764,Perú - Lima,25374,DHL
+765,Chile - Santiago,20905,DHL
+766,Colombia - Cali,10365,DHL
+767,Perú - Trujillo,10276,Blue Express
+768,Colombia - Bogotá,41275,Blue Express
+769,Perú - Arequipa,10423,Olva Courier
+770,Chile - Valparaíso,25446,Blue Express
+771,Colombia - Cali,19648,Olva Courier
+772,Perú - Lima,14510,DHL
+773,Colombia - Bogotá,30173,Blue Express
+774,Chile - Concepción,43615,Servientrega
+775,Colombia - Bogotá,13037,Servientrega
+776,Chile - Valparaíso,33827,Servientrega
+777,Chile - Santiago,7314,Blue Express
+778,Chile - Santiago,44615,Servientrega
+779,Perú - Lima,10717,Blue Express
+780,Perú - Lima,44909,Servientrega
+781,Chile - Concepción,22937,Servientrega
+782,Perú - Trujillo,17270,Blue Express
+783,Chile - Santiago,35023,Blue Express
+784,Chile - Santiago,16209,DHL
+785,Chile - Valparaíso,23620,Servientrega
+786,Chile - Concepción,33623,Servientrega
+787,Chile - Santiago,24039,Blue Express
+788,Perú - Lima,35276,Servientrega
+789,Perú - Arequipa,48979,DHL
+790,Chile - Valparaíso,10831,DHL
+791,Perú - Lima,37375,Servientrega
+792,Colombia - Bogotá,22779,Servientrega
+793,Chile - Santiago,7605,Olva Courier
+794,Chile - Santiago,12624,Servientrega
+795,Perú - Trujillo,32048,Blue Express
+796,Colombia - Cali,16603,Blue Express
+797,Perú - Trujillo,22343,Servientrega
+798,Perú - Lima,42558,Olva Courier
+799,Perú - Lima,37687,Blue Express
+800,Perú - Arequipa,8471,Blue Express
+801,Perú - Trujillo,49698,DHL
+802,Colombia - Cali,11570,Olva Courier
+803,Chile - Concepción,37744,Blue Express
+804,Perú - Arequipa,27687,DHL
+805,Chile - Concepción,14128,Blue Express
+806,Perú - Trujillo,6628,Blue Express
+807,Colombia - Medellín,32063,Blue Express
+808,Colombia - Bogotá,49945,Blue Express
+809,Colombia - Bogotá,44287,Servientrega
+810,Colombia - Bogotá,5001,Blue Express
+811,Colombia - Medellín,12516,Blue Express
+812,Colombia - Cali,48966,Blue Express
+813,Colombia - Medellín,36527,DHL
+814,Chile - Santiago,6717,Olva Courier
+815,Colombia - Medellín,23617,Blue Express
+816,Colombia - Cali,8511,Olva Courier
+817,Colombia - Medellín,47246,Blue Express
+818,Perú - Trujillo,42147,Blue Express
+819,Chile - Valparaíso,11875,Olva Courier
+820,Colombia - Bogotá,49330,Olva Courier
+821,Perú - Arequipa,10700,Olva Courier
+822,Perú - Lima,33238,Olva Courier
+823,Chile - Valparaíso,22510,Olva Courier
+824,Colombia - Cali,22543,Servientrega
+825,Colombia - Cali,39237,Servientrega
+826,Perú - Lima,20708,DHL
+827,Chile - Concepción,38674,Olva Courier
+828,Colombia - Medellín,38233,Blue Express
+829,Colombia - Bogotá,28741,Olva Courier
+830,Perú - Trujillo,19220,Blue Express
+831,Chile - Concepción,46311,DHL
+832,Perú - Lima,5421,Servientrega
+833,Chile - Concepción,23340,Blue Express
+834,Chile - Concepción,42136,DHL
+835,Perú - Lima,48704,DHL
+836,Colombia - Medellín,33586,Olva Courier
+837,Perú - Trujillo,34576,Blue Express
+838,Chile - Valparaíso,14739,DHL
+839,Perú - Trujillo,12571,Servientrega
+840,Perú - Trujillo,33525,Servientrega
+841,Chile - Santiago,22886,Olva Courier
+842,Perú - Arequipa,32679,Olva Courier
+843,Chile - Concepción,29805,Blue Express
+844,Chile - Concepción,18058,Olva Courier
+845,Colombia - Bogotá,41863,Olva Courier
+846,Perú - Lima,10974,Blue Express
+847,Chile - Santiago,13444,DHL
+848,Perú - Trujillo,22932,Olva Courier
+849,Chile - Santiago,7317,Blue Express
+850,Colombia - Bogotá,33480,Olva Courier
+851,Perú - Arequipa,42772,Blue Express
+852,Perú - Arequipa,33403,Blue Express
+853,Perú - Lima,13585,Servientrega
+854,Chile - Santiago,35029,Blue Express
+855,Chile - Santiago,7690,Blue Express
+856,Colombia - Medellín,47330,Olva Courier
+857,Chile - Valparaíso,17084,DHL
+858,Perú - Trujillo,33946,DHL
+859,Colombia - Bogotá,30674,Olva Courier
+860,Colombia - Cali,42776,Olva Courier
+861,Colombia - Bogotá,30634,Blue Express
+862,Colombia - Cali,26252,Olva Courier
+863,Perú - Trujillo,6200,DHL
+864,Perú - Arequipa,18781,Blue Express
+865,Colombia - Bogotá,34099,DHL
+866,Chile - Valparaíso,15399,Blue Express
+867,Chile - Santiago,46949,Blue Express
+868,Colombia - Bogotá,7067,Olva Courier
+869,Colombia - Medellín,28877,DHL
+870,Chile - Santiago,39113,Olva Courier
+871,Chile - Valparaíso,11000,Servientrega
+872,Perú - Lima,48038,Blue Express
+873,Colombia - Bogotá,46924,Olva Courier
+874,Perú - Trujillo,21140,Olva Courier
+875,Colombia - Bogotá,43396,Blue Express
+876,Chile - Valparaíso,35127,Olva Courier
+877,Chile - Concepción,35750,Blue Express
+878,Perú - Arequipa,19918,DHL
+879,Colombia - Medellín,31103,Servientrega
+880,Colombia - Cali,47976,Servientrega
+881,Perú - Trujillo,10120,Blue Express
+882,Colombia - Medellín,8920,Blue Express
+883,Colombia - Medellín,30736,DHL
+884,Chile - Valparaíso,33011,Servientrega
+885,Chile - Santiago,12413,Olva Courier
+886,Chile - Concepción,37565,DHL
+887,Perú - Lima,17815,Olva Courier
+888,Chile - Santiago,46301,Servientrega
+889,Chile - Concepción,14972,Olva Courier
+890,Chile - Concepción,43399,Olva Courier
+891,Chile - Valparaíso,29171,Servientrega
+892,Chile - Valparaíso,48088,Olva Courier
+893,Chile - Concepción,36656,DHL
+894,Perú - Arequipa,18248,Olva Courier
+895,Colombia - Bogotá,19934,Olva Courier
+896,Perú - Lima,28894,Blue Express
+897,Chile - Santiago,49293,Servientrega
+898,Colombia - Cali,22664,Olva Courier
+899,Colombia - Bogotá,8804,Blue Express
+900,Chile - Concepción,24898,Olva Courier
+901,Chile - Concepción,20813,Blue Express
+902,Chile - Santiago,8444,Olva Courier
+903,Perú - Trujillo,10909,Olva Courier
+904,Chile - Concepción,9394,DHL
+905,Chile - Concepción,28740,DHL
+906,Chile - Santiago,42690,Servientrega
+907,Chile - Concepción,45788,Blue Express
+908,Chile - Santiago,44427,DHL
+909,Perú - Lima,19877,Olva Courier
+910,Chile - Santiago,29794,Servientrega
+911,Colombia - Bogotá,46308,Servientrega
+912,Perú - Lima,42582,Blue Express
+913,Chile - Santiago,18298,Blue Express
+914,Chile - Santiago,11028,DHL
+915,Perú - Trujillo,26636,Olva Courier
+916,Chile - Concepción,24569,Servientrega
+917,Perú - Arequipa,44864,Servientrega
+918,Colombia - Cali,7845,DHL
+919,Perú - Trujillo,15635,Servientrega
+920,Colombia - Medellín,8338,Olva Courier
+921,Colombia - Bogotá,38303,DHL
+922,Chile - Valparaíso,26510,Blue Express
+923,Perú - Lima,32207,Olva Courier
+924,Chile - Santiago,45745,Blue Express
+925,Chile - Santiago,32439,Olva Courier
+926,Chile - Concepción,41959,DHL
+927,Colombia - Medellín,47833,Servientrega
+928,Perú - Lima,18195,Olva Courier
+929,Chile - Concepción,8043,DHL
+930,Perú - Arequipa,6854,Servientrega
+931,Colombia - Cali,13569,Blue Express
+932,Perú - Lima,44479,Servientrega
+933,Chile - Valparaíso,14240,DHL
+934,Chile - Santiago,5281,Olva Courier
+935,Perú - Arequipa,17018,Olva Courier
+936,Perú - Arequipa,9756,Olva Courier
+937,Colombia - Bogotá,12202,Olva Courier
+938,Chile - Valparaíso,17264,Servientrega
+939,Perú - Lima,15021,DHL
+940,Perú - Trujillo,35305,Blue Express
+941,Perú - Arequipa,26594,DHL
+942,Colombia - Bogotá,7900,Servientrega
+943,Chile - Concepción,42991,Blue Express
+944,Colombia - Medellín,5159,DHL
+945,Colombia - Bogotá,27559,DHL
+946,Colombia - Medellín,39823,DHL
+947,Colombia - Cali,49892,Blue Express
+948,Perú - Lima,43047,DHL
+949,Perú - Arequipa,25829,Servientrega
+950,Colombia - Bogotá,11570,Servientrega
+951,Chile - Concepción,28010,Servientrega
+952,Chile - Concepción,19302,Blue Express
+953,Colombia - Cali,14205,Servientrega
+954,Colombia - Cali,9502,Olva Courier
+955,Perú - Lima,13226,Blue Express
+956,Perú - Arequipa,46352,Servientrega
+957,Colombia - Medellín,43821,Blue Express
+958,Chile - Concepción,5431,Olva Courier
+959,Perú - Trujillo,45808,Blue Express
+960,Colombia - Bogotá,24528,Olva Courier
+961,Chile - Concepción,19763,Blue Express
+962,Perú - Arequipa,38405,Olva Courier
+963,Colombia - Medellín,19694,DHL
+964,Colombia - Medellín,30427,Olva Courier
+965,Colombia - Bogotá,19067,Servientrega
+966,Colombia - Bogotá,35251,DHL
+967,Chile - Concepción,18349,DHL
+968,Chile - Valparaíso,38849,DHL
+969,Chile - Valparaíso,35384,Blue Express
+970,Chile - Santiago,35149,Servientrega
+971,Chile - Santiago,31820,DHL
+972,Perú - Lima,10011,Olva Courier
+973,Perú - Trujillo,41746,Blue Express
+974,Perú - Trujillo,19037,Blue Express
+975,Perú - Trujillo,24605,Blue Express
+976,Chile - Santiago,19574,Servientrega
+977,Perú - Arequipa,32108,DHL
+978,Perú - Trujillo,25747,Olva Courier
+979,Perú - Arequipa,33561,Olva Courier
+980,Chile - Valparaíso,10687,Blue Express
+981,Chile - Valparaíso,18737,DHL
+982,Chile - Valparaíso,14439,DHL
+983,Perú - Lima,10246,Blue Express
+984,Perú - Arequipa,36754,Olva Courier
+985,Chile - Santiago,8125,Blue Express
+986,Perú - Lima,36355,Servientrega
+987,Colombia - Cali,39481,Blue Express
+988,Perú - Lima,6547,Servientrega
+989,Chile - Valparaíso,27375,Servientrega
+990,Colombia - Medellín,43678,Olva Courier
+991,Perú - Trujillo,45059,Servientrega
+992,Colombia - Medellín,39650,Olva Courier
+993,Perú - Lima,20737,DHL
+994,Chile - Concepción,33846,Blue Express
+995,Colombia - Bogotá,30664,Blue Express
+996,Perú - Lima,26816,Olva Courier
+997,Perú - Arequipa,45929,Olva Courier
+998,Chile - Concepción,36243,Servientrega
+999,Chile - Valparaíso,11777,DHL
+1000,Perú - Trujillo,16755,Blue Express
+1001,Perú - Lima,14792,Blue Express
+1002,Perú - Trujillo,12077,DHL
+1003,Chile - Santiago,49896,DHL
+1004,Chile - Concepción,49062,Blue Express
+1005,Perú - Arequipa,41872,DHL
+1006,Colombia - Bogotá,25647,Blue Express
+1007,Colombia - Bogotá,7925,Olva Courier
+1008,Perú - Trujillo,41633,Servientrega
+1009,Chile - Santiago,23945,Olva Courier
+1010,Perú - Trujillo,38711,DHL
+1011,Chile - Santiago,25864,Blue Express
+1012,Perú - Lima,48836,Blue Express
+1013,Colombia - Bogotá,20961,Blue Express
+1014,Perú - Arequipa,33019,Olva Courier
+1015,Chile - Santiago,48165,DHL
+1016,Perú - Lima,43272,Servientrega
+1017,Chile - Valparaíso,32004,Servientrega
+1018,Perú - Trujillo,47574,DHL
+1019,Perú - Lima,42698,Olva Courier
+1020,Colombia - Cali,28776,Olva Courier
+1021,Chile - Valparaíso,27580,Olva Courier
+1022,Chile - Concepción,40460,Blue Express
+1023,Chile - Concepción,30500,Servientrega
+1024,Colombia - Medellín,12120,DHL
+1025,Colombia - Bogotá,17338,Blue Express
+1026,Colombia - Cali,22313,Olva Courier
+1027,Perú - Trujillo,12919,Blue Express
+1028,Colombia - Bogotá,24333,DHL
+1029,Chile - Valparaíso,45838,Olva Courier
+1030,Perú - Arequipa,32474,Blue Express
+1031,Perú - Arequipa,27667,DHL
+1032,Perú - Trujillo,32869,Olva Courier
+1033,Chile - Concepción,41964,Servientrega
+1034,Colombia - Bogotá,37206,Blue Express
+1035,Chile - Valparaíso,33473,Blue Express
+1036,Perú - Lima,31093,DHL
+1037,Chile - Valparaíso,35460,DHL
+1038,Colombia - Medellín,46803,DHL
+1039,Perú - Arequipa,20580,Olva Courier
+1040,Perú - Trujillo,5344,Blue Express
+1041,Chile - Valparaíso,40256,DHL
+1042,Colombia - Medellín,35515,Olva Courier
+1043,Colombia - Medellín,15554,Blue Express
+1044,Perú - Arequipa,27557,Olva Courier
+1045,Chile - Santiago,36525,Blue Express
+1046,Chile - Concepción,49102,Servientrega
+1047,Colombia - Bogotá,43137,Servientrega
+1048,Perú - Trujillo,31935,Olva Courier
+1049,Chile - Concepción,39989,Servientrega
+1050,Perú - Trujillo,31125,Servientrega
+1051,Colombia - Bogotá,11669,Servientrega
+1052,Chile - Concepción,7053,Olva Courier
+1053,Chile - Santiago,24282,DHL
+1054,Chile - Concepción,42158,Servientrega
+1055,Perú - Trujillo,43385,Blue Express
+1056,Colombia - Medellín,34486,Olva Courier
+1057,Colombia - Cali,34827,Olva Courier
+1058,Colombia - Cali,46657,Blue Express
+1059,Chile - Valparaíso,20313,Olva Courier
+1060,Colombia - Medellín,41268,Blue Express
+1061,Perú - Trujillo,35015,Servientrega
+1062,Chile - Santiago,40532,Olva Courier
+1063,Chile - Valparaíso,38044,Olva Courier
+1064,Colombia - Medellín,47205,Servientrega
+1065,Perú - Trujillo,42878,DHL
+1066,Perú - Trujillo,15693,Olva Courier
+1067,Colombia - Medellín,8665,Olva Courier
+1068,Perú - Lima,21743,Servientrega
+1069,Chile - Santiago,26809,Servientrega
+1070,Chile - Santiago,11021,Olva Courier
+1071,Chile - Santiago,11265,Olva Courier
+1072,Perú - Trujillo,13367,Servientrega
+1073,Perú - Lima,38741,Olva Courier
+1074,Chile - Santiago,20682,DHL
+1075,Colombia - Bogotá,24988,DHL
+1076,Chile - Concepción,42791,Olva Courier
+1077,Colombia - Cali,13836,Blue Express
+1078,Colombia - Bogotá,46038,Servientrega
+1079,Colombia - Medellín,23048,DHL
+1080,Colombia - Cali,35199,Olva Courier
+1081,Chile - Concepción,9838,Blue Express
+1082,Colombia - Cali,13553,Olva Courier
+1083,Chile - Santiago,40972,Olva Courier
+1084,Chile - Santiago,16385,Servientrega
+1085,Perú - Lima,38944,DHL
+1086,Chile - Valparaíso,14710,Olva Courier
+1087,Colombia - Medellín,17292,DHL
+1088,Chile - Concepción,27214,Blue Express
+1089,Perú - Lima,41069,Servientrega
+1090,Perú - Lima,42211,Servientrega
+1091,Perú - Lima,16443,Olva Courier
+1092,Chile - Concepción,41267,DHL
+1093,Colombia - Cali,7721,Blue Express
+1094,Chile - Concepción,41568,Olva Courier
+1095,Chile - Concepción,21664,Servientrega
+1096,Colombia - Medellín,37441,DHL
+1097,Perú - Lima,25291,Servientrega
+1098,Colombia - Medellín,47672,Servientrega
+1099,Colombia - Medellín,26041,Olva Courier
+1100,Perú - Arequipa,27410,Olva Courier
+1101,Chile - Santiago,19307,Blue Express
+1102,Chile - Concepción,13020,Servientrega
+1103,Chile - Santiago,19293,DHL
+1104,Perú - Lima,9812,Olva Courier
+1105,Perú - Trujillo,29079,Servientrega
+1106,Colombia - Medellín,20860,Olva Courier
+1107,Colombia - Medellín,44406,Olva Courier
+1108,Perú - Arequipa,45748,Blue Express
+1109,Colombia - Bogotá,46847,Blue Express
+1110,Chile - Valparaíso,30530,Blue Express
+1111,Perú - Trujillo,36453,Olva Courier
+1112,Colombia - Cali,40538,Olva Courier
+1113,Perú - Arequipa,29403,Servientrega
+1114,Perú - Trujillo,39862,Blue Express
+1115,Chile - Santiago,32083,Olva Courier
+1116,Chile - Valparaíso,36630,Blue Express
+1117,Perú - Arequipa,20840,DHL
+1118,Colombia - Medellín,47569,DHL
+1119,Colombia - Medellín,17978,DHL
+1120,Colombia - Cali,16629,Servientrega
+1121,Perú - Lima,24125,Blue Express
+1122,Chile - Santiago,46100,Blue Express
+1123,Chile - Santiago,42944,Olva Courier
+1124,Chile - Santiago,41186,Blue Express
+1125,Perú - Arequipa,11982,Blue Express
+1126,Chile - Valparaíso,21484,Blue Express
+1127,Colombia - Medellín,13485,Olva Courier
+1128,Perú - Lima,35939,Blue Express
+1129,Perú - Trujillo,8178,Servientrega
+1130,Chile - Concepción,23647,DHL
+1131,Chile - Valparaíso,37204,Blue Express
+1132,Chile - Santiago,28315,Blue Express
+1133,Perú - Lima,40057,Servientrega
+1134,Perú - Arequipa,17583,Servientrega
+1135,Chile - Valparaíso,26612,Servientrega
+1136,Chile - Santiago,10815,Servientrega
+1137,Chile - Santiago,44267,Blue Express
+1138,Perú - Lima,43150,Blue Express
+1139,Colombia - Bogotá,5383,Servientrega
+1140,Chile - Santiago,38752,DHL
+1141,Colombia - Bogotá,47324,DHL
+1142,Chile - Santiago,43377,DHL
+1143,Perú - Trujillo,40144,Blue Express
+1144,Chile - Santiago,20934,Olva Courier
+1145,Perú - Arequipa,31501,Olva Courier
+1146,Chile - Santiago,24207,Blue Express
+1147,Chile - Concepción,30189,Servientrega
+1148,Chile - Santiago,22791,DHL
+1149,Colombia - Medellín,13826,Servientrega
+1150,Perú - Lima,14139,Blue Express
+1151,Perú - Trujillo,25916,Olva Courier
+1152,Chile - Valparaíso,27619,Olva Courier
+1153,Perú - Lima,39179,DHL
+1154,Chile - Santiago,31852,DHL
+1155,Perú - Lima,24001,Servientrega
+1156,Perú - Arequipa,20384,Olva Courier
+1157,Chile - Valparaíso,45001,Servientrega
+1158,Perú - Trujillo,45245,Servientrega
+1159,Perú - Trujillo,28409,Olva Courier
+1160,Chile - Valparaíso,24628,Servientrega
+1161,Perú - Lima,24221,DHL
+1162,Colombia - Medellín,18569,Servientrega
+1163,Chile - Concepción,34213,Servientrega
+1164,Perú - Lima,29732,Olva Courier
+1165,Perú - Arequipa,7967,DHL
+1166,Perú - Arequipa,39317,Blue Express
+1167,Perú - Lima,47971,DHL
+1168,Colombia - Bogotá,10602,Olva Courier
+1169,Perú - Trujillo,7218,Olva Courier
+1170,Colombia - Bogotá,23937,Blue Express
+1171,Chile - Valparaíso,9136,Servientrega
+1172,Chile - Valparaíso,34276,Olva Courier
+1173,Colombia - Bogotá,49720,Olva Courier
+1174,Perú - Lima,47173,Servientrega
+1175,Perú - Lima,11650,DHL
+1176,Perú - Arequipa,44689,DHL
+1177,Perú - Lima,7647,Servientrega
+1178,Colombia - Bogotá,24620,Blue Express
+1179,Chile - Santiago,42270,DHL
+1180,Perú - Arequipa,37113,Servientrega
+1181,Colombia - Medellín,22314,DHL
+1182,Chile - Santiago,10599,Servientrega
+1183,Colombia - Cali,25781,Servientrega
+1184,Perú - Lima,8499,Blue Express
+1185,Chile - Concepción,18360,Olva Courier
+1186,Perú - Trujillo,35550,DHL
+1187,Perú - Trujillo,30987,DHL
+1188,Perú - Trujillo,43758,Servientrega
+1189,Chile - Santiago,37839,DHL
+1190,Chile - Valparaíso,40912,DHL
+1191,Chile - Concepción,28113,DHL
+1192,Chile - Valparaíso,26242,Servientrega
+1193,Chile - Valparaíso,16374,Servientrega
+1194,Chile - Santiago,21669,Olva Courier
+1195,Perú - Arequipa,37306,Olva Courier
+1196,Chile - Concepción,17349,Servientrega
+1197,Chile - Santiago,13471,Blue Express
+1198,Colombia - Bogotá,21368,DHL
+1199,Perú - Lima,27466,Olva Courier
+1200,Perú - Trujillo,44841,DHL
+1201,Perú - Lima,30578,Olva Courier
+1202,Perú - Arequipa,10224,Servientrega
+1203,Chile - Santiago,27340,Olva Courier
+1204,Perú - Lima,48030,DHL
+1205,Colombia - Medellín,43190,Blue Express
+1206,Chile - Santiago,39875,Olva Courier
+1207,Chile - Valparaíso,29029,Olva Courier
+1208,Chile - Valparaíso,34075,Servientrega
+1209,Chile - Valparaíso,6161,Blue Express
+1210,Perú - Lima,49685,DHL
+1211,Perú - Arequipa,28908,DHL
+1212,Chile - Concepción,33354,Blue Express
+1213,Chile - Concepción,41556,Servientrega
+1214,Perú - Arequipa,19729,DHL
+1215,Chile - Concepción,27407,Servientrega
+1216,Perú - Trujillo,23602,Servientrega
+1217,Colombia - Medellín,31502,Blue Express
+1218,Chile - Concepción,27736,Olva Courier
+1219,Chile - Concepción,44724,Servientrega
+1220,Colombia - Medellín,36725,Olva Courier
+1221,Perú - Trujillo,47657,DHL
+1222,Perú - Arequipa,25272,Olva Courier
+1223,Colombia - Cali,18780,DHL
+1224,Perú - Lima,9526,Olva Courier
+1225,Perú - Trujillo,8339,Servientrega
+1226,Chile - Santiago,41508,Servientrega
+1227,Colombia - Medellín,8171,Servientrega
+1228,Chile - Santiago,25999,Olva Courier
+1229,Colombia - Cali,40494,Olva Courier
+1230,Chile - Concepción,16241,Servientrega
+1231,Chile - Santiago,11140,DHL
+1232,Perú - Lima,43755,Olva Courier
+1233,Colombia - Bogotá,22056,Blue Express
+1234,Chile - Santiago,40643,Servientrega
+1235,Perú - Trujillo,12951,Servientrega
+1236,Perú - Arequipa,45081,DHL
+1237,Colombia - Bogotá,22761,DHL
+1238,Perú - Trujillo,44028,Blue Express
+1239,Perú - Arequipa,44909,DHL
+1240,Colombia - Medellín,44952,DHL
+1241,Perú - Arequipa,20516,Servientrega
+1242,Chile - Santiago,29302,DHL
+1243,Perú - Trujillo,46289,Blue Express
+1244,Colombia - Bogotá,21492,DHL
+1245,Colombia - Medellín,7724,Olva Courier
+1246,Perú - Arequipa,7793,DHL
+1247,Colombia - Medellín,13125,Blue Express
+1248,Chile - Valparaíso,48975,DHL
+1249,Perú - Lima,29829,Servientrega
+1250,Perú - Arequipa,41877,Blue Express
+1251,Perú - Lima,7785,DHL
+1252,Chile - Concepción,44642,Olva Courier
+1253,Perú - Lima,12940,Blue Express
+1254,Chile - Valparaíso,33286,Servientrega
+1255,Colombia - Bogotá,5121,DHL
+1256,Perú - Trujillo,36173,Servientrega
+1257,Chile - Santiago,15066,Blue Express
+1258,Chile - Santiago,35215,Blue Express
+1259,Colombia - Bogotá,26006,Blue Express
+1260,Colombia - Cali,22784,Olva Courier
+1261,Colombia - Medellín,11483,Olva Courier
+1262,Colombia - Cali,41237,DHL
+1263,Perú - Lima,18529,Olva Courier
+1264,Chile - Santiago,40964,Olva Courier
+1265,Colombia - Bogotá,38135,DHL
+1266,Colombia - Medellín,10086,DHL
+1267,Chile - Santiago,33734,Blue Express
+1268,Perú - Lima,16984,Olva Courier
+1269,Chile - Santiago,27281,Servientrega
+1270,Chile - Santiago,40978,Blue Express
+1271,Perú - Arequipa,46699,Olva Courier
+1272,Chile - Valparaíso,17285,Servientrega
+1273,Chile - Valparaíso,48426,DHL
+1274,Chile - Santiago,24441,Servientrega
+1275,Perú - Arequipa,39599,DHL
+1276,Perú - Lima,10859,Servientrega
+1277,Colombia - Bogotá,47520,Servientrega
+1278,Chile - Valparaíso,49326,Olva Courier
+1279,Perú - Trujillo,21683,Servientrega
+1280,Perú - Trujillo,43883,Servientrega
+1281,Colombia - Bogotá,25933,DHL
+1282,Chile - Concepción,35973,Servientrega
+1283,Chile - Concepción,35314,Olva Courier
+1284,Colombia - Medellín,36480,Servientrega
+1285,Perú - Trujillo,29076,Servientrega
+1286,Colombia - Cali,32903,DHL
+1287,Perú - Trujillo,23943,DHL
+1288,Chile - Santiago,49292,Blue Express
+1289,Perú - Arequipa,5555,Blue Express
+1290,Perú - Lima,35904,Olva Courier
+1291,Colombia - Medellín,49773,DHL
+1292,Chile - Concepción,20627,Olva Courier
+1293,Chile - Santiago,26196,Blue Express
+1294,Chile - Valparaíso,14707,DHL
+1295,Colombia - Bogotá,33040,Blue Express
+1296,Chile - Concepción,6128,Blue Express
+1297,Perú - Lima,45410,Servientrega
+1298,Perú - Arequipa,15451,Blue Express
+1299,Colombia - Cali,38655,DHL
+1300,Colombia - Bogotá,13698,Blue Express
+1301,Perú - Trujillo,29085,Servientrega
+1302,Chile - Concepción,25703,Blue Express
+1303,Perú - Arequipa,8351,Olva Courier
+1304,Chile - Valparaíso,5998,DHL
+1305,Perú - Trujillo,46146,Olva Courier
+1306,Colombia - Cali,39589,Blue Express
+1307,Colombia - Cali,38024,Servientrega
+1308,Chile - Concepción,21290,Servientrega
+1309,Colombia - Medellín,42850,Servientrega
+1310,Chile - Valparaíso,15640,Blue Express
+1311,Colombia - Bogotá,9181,Olva Courier
+1312,Perú - Trujillo,23834,Servientrega
+1313,Chile - Concepción,13413,DHL
+1314,Perú - Trujillo,44717,Blue Express
+1315,Perú - Trujillo,5271,Servientrega
+1316,Colombia - Bogotá,38534,DHL
+1317,Chile - Santiago,45502,Olva Courier
+1318,Perú - Arequipa,41520,Servientrega
+1319,Chile - Valparaíso,20602,DHL
+1320,Colombia - Cali,46269,Servientrega
+1321,Perú - Lima,13356,Olva Courier
+1322,Perú - Lima,26604,Servientrega
+1323,Perú - Arequipa,11600,Olva Courier
+1324,Perú - Trujillo,21832,Olva Courier
+1325,Chile - Santiago,41866,Olva Courier
+1326,Colombia - Medellín,14460,Olva Courier
+1327,Colombia - Cali,46589,Blue Express
+1328,Perú - Lima,17685,DHL
+1329,Colombia - Cali,8761,DHL
+1330,Chile - Santiago,39217,Servientrega
+1331,Colombia - Cali,5156,Olva Courier
+1332,Colombia - Medellín,6772,Blue Express
+1333,Chile - Valparaíso,22700,Servientrega
+1334,Colombia - Cali,24294,DHL
+1335,Perú - Trujillo,27583,Servientrega
+1336,Colombia - Cali,6966,Blue Express
+1337,Chile - Concepción,34445,Blue Express
+1338,Colombia - Medellín,18694,Servientrega
+1339,Colombia - Cali,9439,Blue Express
+1340,Chile - Concepción,16373,Blue Express
+1341,Colombia - Bogotá,46189,Blue Express
+1342,Colombia - Cali,13751,Olva Courier
+1343,Colombia - Medellín,36102,Blue Express
+1344,Colombia - Medellín,31412,Olva Courier
+1345,Perú - Lima,9194,Servientrega
+1346,Chile - Valparaíso,47660,DHL
+1347,Perú - Lima,33310,Servientrega
+1348,Perú - Trujillo,34940,Blue Express
+1349,Chile - Concepción,48171,Servientrega
+1350,Chile - Santiago,46386,Blue Express
+1351,Colombia - Medellín,23068,Olva Courier
+1352,Chile - Concepción,44975,Blue Express
+1353,Colombia - Cali,23241,Olva Courier
+1354,Chile - Valparaíso,30301,Olva Courier
+1355,Colombia - Bogotá,7027,Olva Courier
+1356,Perú - Lima,18552,DHL
+1357,Colombia - Medellín,19819,Servientrega
+1358,Colombia - Bogotá,15064,DHL
+1359,Perú - Trujillo,38624,Olva Courier
+1360,Colombia - Cali,13004,Olva Courier
+1361,Chile - Santiago,40947,Blue Express
+1362,Chile - Concepción,29834,Blue Express
+1363,Perú - Lima,30750,Olva Courier
+1364,Perú - Lima,24655,DHL
+1365,Perú - Trujillo,21375,Olva Courier
+1366,Colombia - Medellín,46750,Servientrega
+1367,Colombia - Medellín,34304,DHL
+1368,Perú - Arequipa,20309,Blue Express
+1369,Colombia - Medellín,6237,DHL
+1370,Chile - Santiago,42038,DHL
+1371,Perú - Arequipa,40793,DHL
+1372,Perú - Trujillo,33451,DHL
+1373,Chile - Valparaíso,27640,Blue Express
+1374,Colombia - Cali,12913,Olva Courier
+1375,Perú - Arequipa,5733,DHL
+1376,Perú - Lima,22466,Blue Express
+1377,Perú - Arequipa,31384,Servientrega
+1378,Colombia - Bogotá,48294,Blue Express
+1379,Chile - Concepción,49379,DHL
+1380,Perú - Arequipa,46846,Olva Courier
+1381,Colombia - Bogotá,29876,Blue Express
+1382,Perú - Trujillo,6663,Servientrega
+1383,Colombia - Medellín,47565,Blue Express
+1384,Colombia - Bogotá,42054,DHL
+1385,Perú - Arequipa,28208,DHL
+1386,Colombia - Cali,31969,Blue Express
+1387,Colombia - Medellín,30536,Servientrega
+1388,Perú - Lima,35108,Servientrega
+1389,Perú - Arequipa,37061,DHL
+1390,Perú - Trujillo,16504,DHL
+1391,Colombia - Cali,12358,Olva Courier
+1392,Colombia - Cali,10835,DHL
+1393,Perú - Lima,49743,Olva Courier
+1394,Perú - Arequipa,20912,Servientrega
+1395,Colombia - Bogotá,22195,Olva Courier
+1396,Chile - Valparaíso,47180,DHL
+1397,Perú - Arequipa,23848,Blue Express
+1398,Chile - Santiago,9543,Servientrega
+1399,Colombia - Bogotá,31461,DHL
+1400,Colombia - Medellín,34574,Olva Courier
+1401,Chile - Valparaíso,26375,Blue Express
+1402,Colombia - Cali,13178,Blue Express
+1403,Perú - Arequipa,48386,Servientrega
+1404,Perú - Trujillo,43081,DHL
+1405,Chile - Valparaíso,47588,DHL
+1406,Colombia - Medellín,39701,Servientrega
+1407,Colombia - Cali,26061,Blue Express
+1408,Perú - Trujillo,16892,Blue Express
+1409,Perú - Trujillo,6785,DHL
+1410,Perú - Arequipa,46025,Servientrega
+1411,Colombia - Cali,44357,Servientrega
+1412,Perú - Arequipa,41076,DHL
+1413,Chile - Concepción,44911,Blue Express
+1414,Perú - Lima,14899,Blue Express
+1415,Chile - Santiago,6495,Blue Express
+1416,Colombia - Medellín,22821,Olva Courier
+1417,Colombia - Cali,47507,Servientrega
+1418,Colombia - Cali,25830,Blue Express
+1419,Perú - Trujillo,29367,Olva Courier
+1420,Colombia - Medellín,38046,Olva Courier
+1421,Colombia - Bogotá,33117,Olva Courier
+1422,Chile - Santiago,43027,Blue Express
+1423,Perú - Trujillo,14429,DHL
+1424,Perú - Arequipa,32853,Olva Courier
+1425,Perú - Trujillo,29364,DHL
+1426,Colombia - Cali,15491,DHL
+1427,Colombia - Cali,40639,Servientrega
+1428,Perú - Lima,20242,Blue Express
+1429,Chile - Santiago,21184,Servientrega
+1430,Chile - Santiago,16934,Blue Express
+1431,Perú - Lima,49569,Servientrega
+1432,Perú - Trujillo,37177,Blue Express
+1433,Colombia - Medellín,40303,Blue Express
+1434,Colombia - Medellín,20752,Olva Courier
+1435,Perú - Trujillo,11426,Olva Courier
+1436,Colombia - Cali,16479,Servientrega
+1437,Colombia - Bogotá,19659,DHL
+1438,Perú - Arequipa,23765,Olva Courier
+1439,Perú - Lima,11507,Blue Express
+1440,Chile - Santiago,24578,Blue Express
+1441,Colombia - Cali,6049,Olva Courier
+1442,Chile - Santiago,21372,Olva Courier
+1443,Perú - Arequipa,47153,Blue Express
+1444,Colombia - Bogotá,27150,Blue Express
+1445,Chile - Santiago,41922,Servientrega
+1446,Chile - Santiago,46122,Olva Courier
+1447,Chile - Santiago,41296,Blue Express
+1448,Colombia - Medellín,10156,DHL
+1449,Colombia - Cali,8992,Olva Courier
+1450,Perú - Arequipa,45614,Servientrega
+1451,Colombia - Cali,36258,Blue Express
+1452,Perú - Lima,12041,Olva Courier
+1453,Chile - Concepción,17824,Servientrega
+1454,Perú - Lima,18451,Servientrega
+1455,Chile - Valparaíso,41007,Olva Courier
+1456,Colombia - Medellín,10586,Olva Courier
+1457,Perú - Lima,47751,DHL
+1458,Chile - Valparaíso,15099,Olva Courier
+1459,Chile - Valparaíso,46881,Olva Courier
+1460,Colombia - Medellín,6426,Servientrega
+1461,Chile - Santiago,33414,Olva Courier
+1462,Perú - Arequipa,40404,Servientrega
+1463,Chile - Santiago,12993,Servientrega
+1464,Colombia - Medellín,28269,Servientrega
+1465,Colombia - Medellín,40206,Servientrega
+1466,Chile - Valparaíso,21516,Servientrega
+1467,Chile - Santiago,24630,Servientrega
+1468,Chile - Santiago,40519,Servientrega
+1469,Chile - Santiago,33796,Olva Courier
+1470,Perú - Trujillo,13720,Servientrega
+1471,Chile - Santiago,10122,Olva Courier
+1472,Chile - Concepción,14619,DHL
+1473,Chile - Santiago,21994,Blue Express
+1474,Perú - Lima,32421,Servientrega
+1475,Colombia - Bogotá,16306,Servientrega
+1476,Chile - Concepción,15107,DHL
+1477,Chile - Concepción,47351,Servientrega
+1478,Colombia - Cali,33414,Servientrega
+1479,Perú - Arequipa,48067,Olva Courier
+1480,Perú - Trujillo,17244,Servientrega
+1481,Perú - Lima,34691,Servientrega
+1482,Chile - Valparaíso,22752,Blue Express
+1483,Chile - Valparaíso,31878,DHL
+1484,Chile - Santiago,16410,Blue Express
+1485,Perú - Trujillo,38158,Blue Express
+1486,Colombia - Medellín,20554,Olva Courier
+1487,Colombia - Cali,35396,Blue Express
+1488,Perú - Lima,43422,Blue Express
+1489,Perú - Lima,45819,Olva Courier
+1490,Chile - Santiago,38137,Blue Express
+1491,Perú - Arequipa,40056,Blue Express
+1492,Chile - Santiago,47019,DHL
+1493,Perú - Lima,13141,DHL
+1494,Perú - Lima,32089,Servientrega
+1495,Chile - Valparaíso,44429,Blue Express
+1496,Chile - Santiago,16814,Blue Express
+1497,Perú - Arequipa,24555,Servientrega
+1498,Perú - Lima,30498,Olva Courier
+1499,Colombia - Bogotá,45362,Olva Courier
+1500,Chile - Concepción,12514,Servientrega
+1501,Perú - Lima,47516,Servientrega
+1502,Colombia - Bogotá,47789,Olva Courier
+1503,Chile - Concepción,24811,DHL
+1504,Perú - Arequipa,25481,Blue Express
+1505,Chile - Santiago,8152,Olva Courier
+1506,Perú - Lima,35197,Olva Courier
+1507,Chile - Santiago,19649,Olva Courier
+1508,Colombia - Cali,16458,Blue Express
+1509,Colombia - Cali,23488,Blue Express
+1510,Colombia - Medellín,32476,Servientrega
+1511,Chile - Valparaíso,26962,Olva Courier
+1512,Chile - Santiago,8196,Olva Courier
+1513,Chile - Santiago,24284,DHL
+1514,Chile - Santiago,23008,Blue Express
+1515,Chile - Santiago,7110,Servientrega
+1516,Chile - Valparaíso,49241,Blue Express
+1517,Colombia - Cali,39292,Blue Express
+1518,Chile - Concepción,7046,Olva Courier
+1519,Perú - Lima,7897,Olva Courier
+1520,Perú - Arequipa,44798,Servientrega
+1521,Chile - Santiago,40703,Olva Courier
+1522,Perú - Trujillo,35116,Blue Express
+1523,Chile - Concepción,44745,Olva Courier
+1524,Perú - Trujillo,44088,Blue Express
+1525,Colombia - Cali,46449,Servientrega
+1526,Chile - Valparaíso,41864,Blue Express
+1527,Perú - Lima,16143,Servientrega
+1528,Chile - Valparaíso,9002,Servientrega
+1529,Chile - Valparaíso,33344,Servientrega
+1530,Chile - Santiago,45146,Olva Courier
+1531,Perú - Arequipa,45809,Blue Express
+1532,Perú - Trujillo,22529,DHL
+1533,Perú - Trujillo,34097,DHL
+1534,Colombia - Cali,23334,Blue Express
+1535,Perú - Arequipa,48483,Olva Courier
+1536,Chile - Concepción,6545,DHL
+1537,Perú - Trujillo,27739,Olva Courier
+1538,Chile - Concepción,15779,Blue Express
+1539,Colombia - Bogotá,11725,Servientrega
+1540,Chile - Santiago,14680,Olva Courier
+1541,Perú - Lima,29483,Servientrega
+1542,Chile - Santiago,7882,DHL
+1543,Chile - Concepción,18053,Servientrega
+1544,Perú - Arequipa,48208,Olva Courier
+1545,Perú - Arequipa,38140,Olva Courier
+1546,Chile - Concepción,24160,Blue Express
+1547,Perú - Lima,6022,Blue Express
+1548,Chile - Concepción,35630,Olva Courier
+1549,Chile - Santiago,37472,Servientrega
+1550,Perú - Trujillo,33703,Blue Express
+1551,Perú - Arequipa,46259,Servientrega
+1552,Colombia - Cali,28557,Olva Courier
+1553,Colombia - Bogotá,13790,Olva Courier
+1554,Chile - Valparaíso,24811,Servientrega
+1555,Colombia - Cali,34605,Servientrega
+1556,Perú - Trujillo,13325,DHL
+1557,Colombia - Medellín,31664,Servientrega
+1558,Colombia - Medellín,18231,Olva Courier
+1559,Chile - Concepción,13337,Servientrega
+1560,Colombia - Medellín,7647,Olva Courier
+1561,Chile - Santiago,12608,DHL
+1562,Perú - Arequipa,30708,Olva Courier
+1563,Colombia - Medellín,46896,Blue Express
+1564,Perú - Arequipa,44932,Blue Express
+1565,Colombia - Bogotá,48801,DHL
+1566,Perú - Arequipa,35968,DHL
+1567,Perú - Lima,27881,DHL
+1568,Colombia - Cali,12577,Servientrega
+1569,Perú - Lima,41711,Olva Courier
+1570,Perú - Arequipa,49559,DHL
+1571,Perú - Lima,9367,DHL
+1572,Chile - Santiago,21498,Olva Courier
+1573,Chile - Concepción,33920,Olva Courier
+1574,Chile - Concepción,23816,Blue Express
+1575,Chile - Concepción,38536,DHL
+1576,Chile - Concepción,17987,Blue Express
+1577,Chile - Concepción,33676,Blue Express
+1578,Colombia - Medellín,39176,Servientrega
+1579,Chile - Santiago,20064,Blue Express
+1580,Colombia - Bogotá,17502,Servientrega
+1581,Chile - Valparaíso,37926,Olva Courier
+1582,Perú - Lima,49272,Olva Courier
+1583,Perú - Lima,41443,Servientrega
+1584,Perú - Arequipa,48423,Blue Express
+1585,Colombia - Bogotá,48803,Olva Courier
+1586,Chile - Santiago,40174,Blue Express
+1587,Perú - Arequipa,49893,DHL
+1588,Perú - Arequipa,48678,Olva Courier
+1589,Colombia - Medellín,19708,DHL
+1590,Colombia - Bogotá,35305,Blue Express
+1591,Perú - Trujillo,13974,Olva Courier
+1592,Colombia - Medellín,5529,Olva Courier
+1593,Chile - Valparaíso,20791,DHL
+1594,Chile - Santiago,26128,Blue Express
+1595,Chile - Santiago,45547,Servientrega
+1596,Colombia - Bogotá,32883,Servientrega
+1597,Chile - Santiago,32943,Servientrega
+1598,Perú - Trujillo,32692,Olva Courier
+1599,Perú - Trujillo,13187,Olva Courier
+1600,Colombia - Cali,30586,DHL
+1601,Chile - Santiago,18031,Olva Courier
+1602,Perú - Lima,42668,Olva Courier
+1603,Colombia - Cali,20551,Servientrega
+1604,Perú - Trujillo,42821,Servientrega
+1605,Perú - Trujillo,35052,Olva Courier
+1606,Perú - Arequipa,18550,Olva Courier
+1607,Chile - Valparaíso,33509,DHL
+1608,Chile - Concepción,37182,Olva Courier
+1609,Perú - Trujillo,44372,Servientrega
+1610,Colombia - Cali,22389,Olva Courier
+1611,Perú - Trujillo,18361,Servientrega
+1612,Colombia - Cali,34121,Olva Courier
+1613,Perú - Lima,14136,DHL
+1614,Colombia - Bogotá,16126,DHL
+1615,Perú - Arequipa,46753,Blue Express
+1616,Colombia - Bogotá,18553,Olva Courier
+1617,Perú - Lima,15392,Blue Express
+1618,Colombia - Bogotá,39688,Blue Express
+1619,Chile - Valparaíso,18137,Servientrega
+1620,Colombia - Cali,32083,Olva Courier
+1621,Colombia - Bogotá,10030,Servientrega
+1622,Colombia - Cali,19671,Blue Express
+1623,Perú - Arequipa,15793,Olva Courier
+1624,Perú - Lima,20217,Olva Courier
+1625,Perú - Arequipa,12843,Servientrega
+1626,Perú - Arequipa,34714,Olva Courier
+1627,Chile - Valparaíso,42899,Servientrega
+1628,Perú - Arequipa,9762,Olva Courier
+1629,Colombia - Medellín,5361,Blue Express
+1630,Perú - Lima,18924,Blue Express
+1631,Chile - Santiago,6003,DHL
+1632,Colombia - Medellín,26925,Servientrega
+1633,Chile - Valparaíso,22862,Servientrega
+1634,Chile - Valparaíso,17935,Blue Express
+1635,Perú - Lima,38285,DHL
+1636,Perú - Arequipa,34679,DHL
+1637,Perú - Arequipa,37280,Servientrega
+1638,Chile - Valparaíso,13877,Olva Courier
+1639,Chile - Valparaíso,20335,DHL
+1640,Chile - Valparaíso,48847,DHL
+1641,Perú - Arequipa,32758,Blue Express
+1642,Colombia - Cali,25290,Servientrega
+1643,Chile - Concepción,21692,DHL
+1644,Colombia - Medellín,45985,Servientrega
+1645,Chile - Concepción,31684,DHL
+1646,Perú - Lima,25055,Olva Courier
+1647,Chile - Santiago,32411,Servientrega
+1648,Colombia - Cali,41393,DHL
+1649,Perú - Lima,7521,Blue Express
+1650,Colombia - Bogotá,23310,Blue Express
+1651,Perú - Arequipa,20330,Blue Express
+1652,Colombia - Cali,42583,Servientrega
+1653,Colombia - Medellín,28555,Servientrega
+1654,Colombia - Bogotá,31613,DHL
+1655,Chile - Valparaíso,28192,DHL
+1656,Colombia - Medellín,27019,Servientrega
+1657,Chile - Concepción,46371,Olva Courier
+1658,Perú - Arequipa,16102,Blue Express
+1659,Chile - Concepción,14673,Servientrega
+1660,Perú - Arequipa,31892,Servientrega
+1661,Perú - Arequipa,30351,Blue Express
+1662,Chile - Concepción,39411,Olva Courier
+1663,Colombia - Medellín,5594,Servientrega
+1664,Chile - Santiago,23789,Servientrega
+1665,Perú - Trujillo,9477,DHL
+1666,Perú - Arequipa,20804,Blue Express
+1667,Perú - Lima,6304,Olva Courier
+1668,Colombia - Cali,42925,Servientrega
+1669,Chile - Santiago,19263,Blue Express
+1670,Chile - Santiago,35496,Olva Courier
+1671,Colombia - Medellín,9012,DHL
+1672,Chile - Santiago,41166,Olva Courier
+1673,Perú - Arequipa,26162,Olva Courier
+1674,Chile - Valparaíso,27682,Blue Express
+1675,Colombia - Cali,46703,Servientrega
+1676,Chile - Concepción,43202,Servientrega
+1677,Chile - Valparaíso,19812,Servientrega
+1678,Colombia - Medellín,36923,Servientrega
+1679,Perú - Lima,34874,Blue Express
+1680,Perú - Lima,33733,Blue Express
+1681,Perú - Lima,23165,Blue Express
+1682,Perú - Arequipa,45444,Olva Courier
+1683,Chile - Concepción,12262,Olva Courier
+1684,Perú - Trujillo,45051,Olva Courier
+1685,Colombia - Medellín,44258,Servientrega
+1686,Chile - Santiago,30665,Olva Courier
+1687,Chile - Valparaíso,29760,Olva Courier
+1688,Colombia - Cali,32386,Blue Express
+1689,Perú - Trujillo,25391,Olva Courier
+1690,Chile - Santiago,37161,DHL
+1691,Colombia - Medellín,21203,Blue Express
+1692,Chile - Concepción,34905,Blue Express
+1693,Colombia - Cali,16521,Servientrega
+1694,Chile - Valparaíso,34933,Blue Express
+1695,Chile - Concepción,19931,Servientrega
+1696,Perú - Lima,21171,Servientrega
+1697,Colombia - Cali,6624,Blue Express
+1698,Colombia - Bogotá,18520,DHL
+1699,Perú - Lima,48948,Servientrega
+1700,Chile - Valparaíso,36388,Servientrega
+1701,Colombia - Medellín,43540,Blue Express
+1702,Perú - Arequipa,36346,DHL
+1703,Perú - Lima,6100,DHL
+1704,Colombia - Medellín,43312,Servientrega
+1705,Perú - Trujillo,7833,Olva Courier
+1706,Perú - Trujillo,49424,Blue Express
+1707,Chile - Concepción,20604,Servientrega
+1708,Colombia - Bogotá,18218,DHL
+1709,Colombia - Bogotá,35820,Olva Courier
+1710,Perú - Lima,40733,Blue Express
+1711,Perú - Lima,10744,Servientrega
+1712,Colombia - Bogotá,10598,Olva Courier
+1713,Colombia - Cali,5572,Blue Express
+1714,Chile - Valparaíso,19468,Olva Courier
+1715,Perú - Trujillo,32488,Olva Courier
+1716,Perú - Arequipa,5373,Servientrega
+1717,Chile - Concepción,21337,Blue Express
+1718,Colombia - Medellín,27151,DHL
+1719,Chile - Santiago,23431,Blue Express
+1720,Perú - Lima,30531,Olva Courier
+1721,Chile - Santiago,6605,Olva Courier
+1722,Perú - Lima,26404,Olva Courier
+1723,Chile - Concepción,37664,DHL
+1724,Colombia - Bogotá,36151,Olva Courier
+1725,Chile - Concepción,36737,Blue Express
+1726,Chile - Santiago,9459,Blue Express
+1727,Chile - Concepción,14775,Servientrega
+1728,Perú - Lima,12688,Olva Courier
+1729,Colombia - Medellín,35035,Servientrega
+1730,Colombia - Medellín,33606,Olva Courier
+1731,Perú - Trujillo,49314,Servientrega
+1732,Perú - Trujillo,8987,Olva Courier
+1733,Perú - Lima,17145,Olva Courier
+1734,Chile - Concepción,40929,Blue Express
+1735,Perú - Lima,48920,Servientrega
+1736,Colombia - Medellín,42454,Servientrega
+1737,Chile - Santiago,6046,Blue Express
+1738,Colombia - Medellín,36183,Servientrega
+1739,Colombia - Bogotá,48108,Blue Express
+1740,Colombia - Bogotá,13474,Olva Courier
+1741,Perú - Trujillo,40805,DHL
+1742,Perú - Lima,45459,Blue Express
+1743,Colombia - Medellín,23198,Blue Express
+1744,Colombia - Cali,15183,DHL
+1745,Colombia - Medellín,48250,Blue Express
+1746,Perú - Arequipa,48572,Servientrega
+1747,Colombia - Bogotá,24954,Servientrega
+1748,Perú - Arequipa,20345,Olva Courier
+1749,Colombia - Medellín,33403,Blue Express
+1750,Colombia - Bogotá,25568,DHL
+1751,Perú - Lima,44487,Blue Express
+1752,Perú - Lima,32206,DHL
+1753,Perú - Lima,36727,DHL
+1754,Colombia - Bogotá,40974,Blue Express
+1755,Chile - Concepción,45645,Servientrega
+1756,Chile - Santiago,35937,Olva Courier
+1757,Perú - Arequipa,26785,Blue Express
+1758,Colombia - Medellín,11372,Olva Courier
+1759,Chile - Santiago,20594,Blue Express
+1760,Perú - Trujillo,16033,Olva Courier
+1761,Chile - Valparaíso,28255,Olva Courier
+1762,Colombia - Medellín,6201,Olva Courier
+1763,Colombia - Bogotá,41795,Olva Courier
+1764,Colombia - Bogotá,46679,DHL
+1765,Colombia - Cali,26821,Servientrega
+1766,Chile - Valparaíso,13714,Olva Courier
+1767,Colombia - Cali,9220,Blue Express
+1768,Colombia - Cali,48725,Servientrega
+1769,Chile - Concepción,30504,Olva Courier
+1770,Colombia - Bogotá,15640,DHL
+1771,Colombia - Cali,34951,Olva Courier
+1772,Chile - Concepción,12945,DHL
+1773,Colombia - Medellín,29487,Blue Express
+1774,Colombia - Cali,31708,DHL
+1775,Colombia - Cali,14221,Servientrega
+1776,Colombia - Cali,16236,DHL
+1777,Colombia - Medellín,17116,DHL
+1778,Colombia - Cali,26006,Blue Express
+1779,Perú - Trujillo,29389,Olva Courier
+1780,Perú - Trujillo,38834,DHL
+1781,Chile - Valparaíso,19933,Blue Express
+1782,Chile - Concepción,32983,Servientrega
+1783,Perú - Trujillo,35956,DHL
+1784,Perú - Lima,15615,Olva Courier
+1785,Colombia - Cali,21612,Servientrega
+1786,Chile - Concepción,45867,Blue Express
+1787,Perú - Arequipa,36210,Servientrega
+1788,Chile - Valparaíso,46930,Blue Express
+1789,Colombia - Cali,42454,Blue Express
+1790,Colombia - Medellín,6841,DHL
+1791,Perú - Trujillo,23201,Blue Express
+1792,Chile - Santiago,49515,Servientrega
+1793,Chile - Valparaíso,31789,DHL
+1794,Colombia - Medellín,24209,Servientrega
+1795,Chile - Santiago,48939,Olva Courier
+1796,Chile - Concepción,24827,Olva Courier
+1797,Perú - Lima,36674,Servientrega
+1798,Chile - Santiago,49664,DHL
+1799,Colombia - Cali,14472,Blue Express
+1800,Colombia - Bogotá,34722,Servientrega
+1801,Colombia - Bogotá,37128,Olva Courier
+1802,Perú - Trujillo,38067,DHL
+1803,Colombia - Medellín,26822,DHL
+1804,Perú - Arequipa,26686,Servientrega
+1805,Chile - Concepción,48814,Servientrega
+1806,Colombia - Medellín,8921,DHL
+1807,Colombia - Cali,49294,DHL
+1808,Chile - Santiago,6416,DHL
+1809,Colombia - Bogotá,46625,DHL
+1810,Perú - Arequipa,41680,Blue Express
+1811,Perú - Trujillo,37551,Servientrega
+1812,Perú - Trujillo,39102,Olva Courier
+1813,Chile - Santiago,7048,Servientrega
+1814,Chile - Concepción,43183,Servientrega
+1815,Perú - Trujillo,41513,Olva Courier
+1816,Colombia - Bogotá,22160,Servientrega
+1817,Chile - Valparaíso,44887,Servientrega
+1818,Colombia - Medellín,45473,Blue Express
+1819,Colombia - Medellín,31583,Blue Express
+1820,Perú - Arequipa,35160,Blue Express
+1821,Perú - Trujillo,38385,Olva Courier
+1822,Perú - Lima,26293,Blue Express
+1823,Chile - Concepción,26387,Blue Express
+1824,Colombia - Medellín,5272,Olva Courier
+1825,Chile - Concepción,29156,DHL
+1826,Perú - Lima,31681,Olva Courier
+1827,Perú - Arequipa,47620,Servientrega
+1828,Chile - Valparaíso,37049,Servientrega
+1829,Colombia - Bogotá,18642,Olva Courier
+1830,Chile - Santiago,16075,Blue Express
+1831,Perú - Trujillo,47948,DHL
+1832,Chile - Santiago,22432,Blue Express
+1833,Colombia - Medellín,23925,DHL
+1834,Colombia - Cali,5254,Servientrega
+1835,Perú - Lima,46074,Olva Courier
+1836,Chile - Santiago,8304,Olva Courier
+1837,Colombia - Medellín,41486,Blue Express
+1838,Perú - Lima,18470,Blue Express
+1839,Chile - Santiago,44179,Blue Express
+1840,Chile - Santiago,19918,Servientrega
+1841,Chile - Concepción,47530,Servientrega
+1842,Chile - Concepción,8990,Blue Express
+1843,Chile - Santiago,18972,Blue Express
+1844,Chile - Concepción,26826,DHL
+1845,Colombia - Medellín,17443,Blue Express
+1846,Perú - Trujillo,11675,DHL
+1847,Perú - Arequipa,7009,Servientrega
+1848,Perú - Arequipa,48157,DHL
+1849,Colombia - Bogotá,18745,Blue Express
+1850,Colombia - Cali,47947,Olva Courier
+1851,Chile - Valparaíso,46445,Blue Express
+1852,Perú - Lima,27277,Blue Express
+1853,Chile - Concepción,12414,DHL
+1854,Chile - Santiago,46873,Servientrega
+1855,Perú - Arequipa,29158,Olva Courier
+1856,Perú - Arequipa,8382,DHL
+1857,Chile - Concepción,43800,Olva Courier
+1858,Chile - Valparaíso,17681,Blue Express
+1859,Chile - Concepción,49074,Blue Express
+1860,Perú - Arequipa,33122,DHL
+1861,Perú - Arequipa,23939,DHL
+1862,Colombia - Cali,38336,Blue Express
+1863,Chile - Concepción,14170,Servientrega
+1864,Colombia - Cali,42989,Olva Courier
+1865,Perú - Arequipa,18691,Olva Courier
+1866,Chile - Santiago,28529,Servientrega
+1867,Colombia - Cali,41715,Servientrega
+1868,Colombia - Cali,46252,Blue Express
+1869,Chile - Valparaíso,37825,Blue Express
+1870,Perú - Lima,42829,Olva Courier
+1871,Colombia - Cali,27497,DHL
+1872,Colombia - Medellín,36539,Olva Courier
+1873,Colombia - Medellín,49095,Blue Express
+1874,Perú - Trujillo,44112,Servientrega
+1875,Colombia - Medellín,17875,Blue Express
+1876,Perú - Arequipa,20656,Servientrega
+1877,Perú - Lima,20248,DHL
+1878,Chile - Valparaíso,30907,Servientrega
+1879,Colombia - Medellín,15876,Olva Courier
+1880,Chile - Valparaíso,34468,DHL
+1881,Perú - Trujillo,9259,Blue Express
+1882,Colombia - Cali,21280,Blue Express
+1883,Colombia - Medellín,7788,Blue Express
+1884,Perú - Trujillo,16161,DHL
+1885,Chile - Concepción,14313,Servientrega
+1886,Colombia - Medellín,18685,Olva Courier
+1887,Chile - Concepción,47531,Servientrega
+1888,Colombia - Medellín,18142,Blue Express
+1889,Perú - Trujillo,19221,Blue Express
+1890,Chile - Santiago,29635,Olva Courier
+1891,Perú - Arequipa,6121,Servientrega
+1892,Chile - Valparaíso,9519,Olva Courier
+1893,Chile - Valparaíso,26869,Olva Courier
+1894,Colombia - Cali,47384,Olva Courier
+1895,Perú - Trujillo,23745,DHL
+1896,Colombia - Cali,44870,Blue Express
+1897,Perú - Arequipa,35657,Servientrega
+1898,Colombia - Cali,24295,DHL
+1899,Colombia - Bogotá,13278,Servientrega
+1900,Colombia - Bogotá,16475,Olva Courier
+1901,Perú - Trujillo,28511,Olva Courier
+1902,Chile - Concepción,43891,Blue Express
+1903,Colombia - Cali,35464,Blue Express
+1904,Perú - Lima,24423,Blue Express
+1905,Perú - Arequipa,30673,Blue Express
+1906,Colombia - Bogotá,7872,Servientrega
+1907,Colombia - Medellín,32715,Olva Courier
+1908,Colombia - Cali,8931,Servientrega
+1909,Chile - Valparaíso,5467,Olva Courier
+1910,Colombia - Cali,7918,Olva Courier
+1911,Colombia - Bogotá,28934,DHL
+1912,Chile - Concepción,28787,DHL
+1913,Chile - Concepción,45424,Blue Express
+1914,Colombia - Cali,32248,Blue Express
+1915,Perú - Trujillo,22019,Servientrega
+1916,Chile - Concepción,21328,DHL
+1917,Perú - Arequipa,18982,Olva Courier
+1918,Colombia - Medellín,35628,Blue Express
+1919,Colombia - Medellín,16658,Servientrega
+1920,Chile - Valparaíso,30493,DHL
+1921,Chile - Concepción,38112,Servientrega
+1922,Perú - Arequipa,27900,DHL
+1923,Colombia - Bogotá,14411,DHL
+1924,Colombia - Cali,29442,Blue Express
+1925,Chile - Santiago,22573,Olva Courier
+1926,Perú - Arequipa,15191,Blue Express
+1927,Colombia - Bogotá,18004,Blue Express
+1928,Colombia - Medellín,11114,DHL
+1929,Chile - Santiago,39985,DHL
+1930,Colombia - Cali,29099,Olva Courier
+1931,Colombia - Medellín,27820,DHL
+1932,Colombia - Cali,46600,Blue Express
+1933,Perú - Arequipa,11402,Olva Courier
+1934,Colombia - Bogotá,11517,Blue Express
+1935,Chile - Valparaíso,49370,Blue Express
+1936,Perú - Arequipa,8102,Servientrega
+1937,Chile - Santiago,48851,Olva Courier
+1938,Colombia - Bogotá,20258,Olva Courier
+1939,Chile - Concepción,8718,Servientrega
+1940,Colombia - Medellín,34712,DHL
+1941,Chile - Santiago,29323,Servientrega
+1942,Chile - Concepción,41346,Olva Courier
+1943,Chile - Concepción,48591,Olva Courier
+1944,Colombia - Cali,36790,Servientrega
+1945,Chile - Santiago,35262,Olva Courier
+1946,Perú - Arequipa,38749,DHL
+1947,Perú - Trujillo,26908,Blue Express
+1948,Colombia - Cali,43930,Blue Express
+1949,Colombia - Bogotá,44055,DHL
+1950,Perú - Arequipa,38715,Servientrega
+1951,Perú - Arequipa,17048,Servientrega
+1952,Colombia - Cali,8467,Blue Express
+1953,Chile - Santiago,16384,DHL
+1954,Colombia - Medellín,37890,DHL
+1955,Chile - Santiago,25659,Blue Express
+1956,Chile - Valparaíso,37123,Olva Courier
+1957,Chile - Santiago,19583,Servientrega
+1958,Chile - Valparaíso,18466,DHL
+1959,Chile - Valparaíso,14127,Blue Express
+1960,Colombia - Medellín,26803,Servientrega
+1961,Colombia - Cali,49364,Servientrega
+1962,Colombia - Bogotá,48004,DHL
+1963,Colombia - Bogotá,14719,Servientrega
+1964,Colombia - Medellín,7737,Olva Courier
+1965,Perú - Lima,40804,Olva Courier
+1966,Chile - Concepción,21952,Blue Express
+1967,Perú - Arequipa,39812,Olva Courier
+1968,Colombia - Cali,43250,DHL
+1969,Chile - Concepción,7419,Olva Courier
+1970,Colombia - Medellín,9948,DHL
+1971,Colombia - Cali,46886,DHL
+1972,Perú - Lima,41946,Servientrega
+1973,Colombia - Medellín,32593,Olva Courier
+1974,Chile - Valparaíso,21853,Olva Courier
+1975,Chile - Valparaíso,46392,DHL
+1976,Chile - Valparaíso,26648,Servientrega
+1977,Colombia - Bogotá,43703,Blue Express
+1978,Colombia - Cali,7404,DHL
+1979,Colombia - Cali,36764,Olva Courier
+1980,Chile - Concepción,13036,Servientrega
+1981,Colombia - Bogotá,26579,Blue Express
+1982,Chile - Concepción,25783,Olva Courier
+1983,Chile - Santiago,40851,DHL
+1984,Chile - Concepción,5066,DHL
+1985,Chile - Concepción,23920,Olva Courier
+1986,Chile - Santiago,10498,Servientrega
+1987,Chile - Valparaíso,26200,DHL
+1988,Perú - Arequipa,28394,Servientrega
+1989,Perú - Arequipa,20555,Blue Express
+1990,Perú - Lima,34257,Blue Express
+1991,Colombia - Cali,5513,DHL
+1992,Perú - Trujillo,34569,Olva Courier
+1993,Colombia - Medellín,11801,Olva Courier
+1994,Colombia - Cali,49670,DHL
+1995,Colombia - Cali,42503,DHL
+1996,Perú - Lima,11352,Servientrega
+1997,Colombia - Bogotá,7856,Servientrega
+1998,Chile - Santiago,35890,DHL
+1999,Chile - Concepción,42303,Blue Express
+2000,Colombia - Cali,21961,Olva Courier
