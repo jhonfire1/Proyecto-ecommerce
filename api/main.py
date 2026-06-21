@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException, status
 from sqlalchemy import text
 
 from api.database import engine
@@ -22,6 +22,7 @@ def root():
         "clientes": total_clientes
     }
 
+
 @app.get("/clientes")
 def obtener_clientes():
 
@@ -40,6 +41,7 @@ def obtener_clientes():
         ]
 
     return clientes
+
 
 @app.get("/productos")
 def obtener_productos():
@@ -60,6 +62,7 @@ def obtener_productos():
 
     return productos
 
+
 @app.get("/bodegas")
 def obtener_bodegas():
 
@@ -78,6 +81,7 @@ def obtener_bodegas():
         ]
 
     return bodegas
+
 
 @app.get("/ventas")
 def obtener_ventas():
@@ -98,6 +102,7 @@ def obtener_ventas():
 
     return ventas
 
+
 @app.get("/clientes/{id_usuario}")
 def obtener_cliente_por_id(id_usuario: int):
 
@@ -115,9 +120,13 @@ def obtener_cliente_por_id(id_usuario: int):
         cliente = resultado.fetchone()
 
     if cliente is None:
-        return {"mensaje": "Cliente no encontrado"}
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Cliente no encontrado"
+        )
 
     return dict(cliente._mapping)
+
 
 @app.get("/productos/{id_producto}")
 def obtener_producto_por_id(id_producto: int):
@@ -136,9 +145,13 @@ def obtener_producto_por_id(id_producto: int):
         producto = resultado.fetchone()
 
     if producto is None:
-        return {"mensaje": "Producto no encontrado"}
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Producto no encontrado"
+        )
 
     return dict(producto._mapping)
+
 
 @app.get("/bodegas/{id_bodega}")
 def obtener_bodega_por_id(id_bodega: int):
@@ -157,9 +170,13 @@ def obtener_bodega_por_id(id_bodega: int):
         bodega = resultado.fetchone()
 
     if bodega is None:
-        return {"mensaje": "Bodega no encontrada"}
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Bodega no encontrada"
+        )
 
     return dict(bodega._mapping)
+
 
 @app.get("/ventas/{id_transaccion}")
 def obtener_venta_por_id(id_transaccion: int):
@@ -178,6 +195,9 @@ def obtener_venta_por_id(id_transaccion: int):
         venta = resultado.fetchone()
 
     if venta is None:
-        return {"mensaje": "Venta no encontrada"}
+        raise HTTPException(
+            status_code=status.HTTP_404_NOT_FOUND,
+            detail="Venta no encontrada"
+        )
 
     return dict(venta._mapping)
