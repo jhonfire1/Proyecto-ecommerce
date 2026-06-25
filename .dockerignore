@@ -1,0 +1,21 @@
+# Entornos virtuales (pesados)
+.venv/
+venv_test/
+
+# Caché de Python y Testing (en cualquier subcarpeta)
+**/__pycache__/
+**/*.pyc
+.pytest_cache/
+
+# Archivos de desarrollo locales
+.git/
+.gitignore
+.dockerignore
+.env
+*.ipynb
+FETCH_HEAD
+
+# Ignorar los CSV masivos pero permitir el archivo SQL si está en data/
+data/*.csv
+data/*_raw.csv
+data/*_transformado.csv

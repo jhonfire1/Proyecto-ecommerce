@@ -14,12 +14,12 @@ st.set_page_config(
 st.title("📊 Plataforma Analítica Regional E-commerce")
 st.markdown("---")
 
-# 2. Carga de Datos (Usamos cache para que no recargue en cada clic)
+# 2. Carga de Datos (Rutas corregidas para el entorno Docker)
 @st.cache_data
 def load_data():
-    # Ajusta estas rutas dependiendo desde dónde ejecutes streamlit run
-    ruta_transacciones = '../data/consolidado_transformado.csv'
-    ruta_clientes = '../data/clientes_segmentados_final.csv'
+    # En el contenedor, la raíz es /app, por ende entramos directo a data/
+    ruta_transacciones = 'data/consolidado_transformado.csv'
+    ruta_clientes = 'data/clientes_segmentados_final.csv'
     
     df_transacciones = pd.read_csv(ruta_transacciones) if os.path.exists(ruta_transacciones) else pd.DataFrame()
     df_clientes = pd.read_csv(ruta_clientes) if os.path.exists(ruta_clientes) else pd.DataFrame()
@@ -27,6 +27,8 @@ def load_data():
     return df_transacciones, df_clientes
 
 df_transacciones, df_clientes = load_data()
+
+
 
 # 3. Estructura de Vistas Diferenciadas (Requisito del Proyecto)
 # Creamos tres pestañas, una para cada equipo
@@ -102,9 +104,9 @@ with tab_operaciones:
             
             # Lógica de carga de modelos
             try:
-                ruta_modelo = '../models/regresion_despacho_model.pkl'
-                ruta_columnas = '../models/columnas_regresion.pkl'
-                ruta_encoder = '../models/encoder_bodegas.pkl'
+                ruta_modelo = 'models/regresion_despacho_model.pkl'
+                ruta_columnas = 'models/columnas_regresion.pkl'
+                ruta_encoder = 'models/encoder_bodegas.pkl'
                 
                 if os.path.exists(ruta_modelo) and os.path.exists(ruta_columnas) and os.path.exists(ruta_encoder):
                     modelo_rf = joblib.load(ruta_modelo)

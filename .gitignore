@@ -218,3 +218,9 @@ __marimo__/
 .streamlit/secrets.toml
 
 FETCH_HEAD
+
+venv_test/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/

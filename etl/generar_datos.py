@@ -311,16 +311,27 @@ df_bodegas.drop(
 # CONEXIÓN POSTGRES
 # =====================================================
 
+# =====================================================
+# CONEXIÓN POSTGRES (Versión Híbrida Inteligente)
+# =====================================================
+
 DB_USER = os.getenv("POSTGRES_USER")
 DB_PASSWORD = os.getenv("POSTGRES_PASSWORD")
 DB_NAME = os.getenv("POSTGRES_DB")
 DB_HOST = os.getenv("POSTGRES_HOST", "localhost")
 DB_PORT = os.getenv("POSTGRES_PORT", "5432")
 
-print("USER =", DB_USER)
-print("DB =", DB_NAME)
-print("HOST =", DB_HOST)
-print("PORT =", DB_PORT)
+# DETECCIÓN DE ENTORNO: 
+# Si el script se ejecuta en tu PC real, forzamos 'localhost' para pasar el puente de Docker.
+# Si se ejecuta dentro de un contenedor, mantendrá el host de la red interna de Docker.
+if not os.path.exists('/.dockerenv') and DB_HOST == "ecommerce_postgres":
+    print("ℹ️ Ejecución detectada desde entorno local (PC). Redirigiendo host a 'localhost'...")
+    DB_HOST = "localhost"
+
+print(f"USER = {DB_USER}")
+print(f"DB   = {DB_NAME}")
+print(f"HOST = {DB_HOST}")
+print(f"PORT = {DB_PORT}")
 
 DATABASE_URL = (
     f"postgresql://{DB_USER}:{DB_PASSWORD}"
@@ -328,14 +339,15 @@ DATABASE_URL = (
 )
 
 print("🔌 Conectando a PostgreSQL...")
-
 engine = create_engine(DATABASE_URL)
 
-with engine.connect() as conn:
-    print("✅ PostgreSQL conectado correctamente")
-print(
-    f"postgresql://{DB_USER}:****@{DB_HOST}:{DB_PORT}/{DB_NAME}"
-)
+try:
+    with engine.connect() as conn:
+        print("✅ PostgreSQL conectado correctamente")
+except Exception as e:
+    print("❌ ERROR DE CONEXIÓN: Asegúrate de que Docker está encendido y los puertos mapeados.")
+    print(f"Detalle del error: {e}")
+    exit(1)
 
 
 # =====================================================
